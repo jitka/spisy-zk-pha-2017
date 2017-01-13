@@ -22,8 +22,8 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
-* Všechny dokumenty zadávací dokumentace a všechny nabídky uchazečů na všechna výběrová řízení, která se týkají bikesharingu, a která se uskutečnila v roce 2016.
-* Všechny dokumenty, které sloužily Dopravnímu podniku hlavního města Prahy jako podklady, na základě kterých byla vytvořena zadávací dokumentace na výběrové řízení na bikesharing v roce 2016. Z těchto dokumentů žádám především (nicméně nikoliv pouze) informace o průzkumu trhu a pohybu uživatelů (tj. cyklistů) na území hl. m. Prahy.
+* Všechny dokumenty zadávací dokumentace a všechny nabídky uchazečů na všechna výběrová řízení, která se týkají bikesharingu, a která se uskutečnila v období let 2011–2016.
+* Všechny dokumenty, které sloužily Dopravnímu podniku hlavního města Prahy jako podklady, na základě kterých byla vytvořena zadávací dokumentace na výběrové řízení na bikesharing v období let 2011–2016. Z těchto dokumentů žádám především (nicméně nikoliv pouze) informace o průzkumu trhu a pohybu uživatelů (tj. cyklistů) na území hl. m. Prahy.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
