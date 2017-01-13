@@ -31,7 +31,5 @@ My personal experience with Alexandra is very positive, and I would hereby like 
 ---
 signature:
   - Mikuláš Ferjenčík
-  - nar. 19. 3. 1987
-  - bytem Bořivojova 108, Praha 3
-  - zastupitel hl. m. Prahy
+  - Pirate Party Deputy in Prague City Assembly
 ...
