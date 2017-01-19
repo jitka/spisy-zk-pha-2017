@@ -1,5 +1,5 @@
 ---
-title:      Žádost o personální rozšíření Komise Rady hl. m. Prahy k dokončení Metropolitního plánu-
+title:      Žádost o personální rozšíření Komise Rady hl. m. Prahy k dokončení Metropolitního plánu.
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
