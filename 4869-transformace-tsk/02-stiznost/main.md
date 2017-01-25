@@ -24,7 +24,7 @@ dne 12. ledna 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 * Všechny analýzy, které má hlavní město Praha k dispozici, týkající se transformace Technické správy komunikací z příspěvkové organizace na akciovou společnost, a které zdůvodňují finanční výhodnost uvedené transformace včetně aspektů vyplývajících z DPH.
 
-Konstatuji, že jsem odpověď na svoji žádost neobdržel v zákonné lhůtě patnácti dní tak, jak uvádí InfZ. Proto v souladu s ust. § 16a odst. 1 písm. b) podávám stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. b) povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil. 
+Konstatuji, že jsem odpověď na svoji žádost neobdržel v zákonné lhůtě patnácti dní tak, jak uvádí InfZ. Proto v souladu s ust. § 16a odst. 1 písm. b) InfZ podávám stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil. 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
