@@ -11,10 +11,13 @@ our:
 your:
    role:    
    name:    
-      -     Hlavní město Praha
+      -     Rada hlavního města Prahy
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
+   note:
+      -     k rukám primátorky
+      -     Mgr. Adriany Krnáčové, MBA
 style:      letter
 ---
 
@@ -24,7 +27,7 @@ byl jsem informován, že Rada hlavního města Prahy zřídila komisi pro dokon
 
 Uvedená komise má patnáct členů; jsou v ní zastoupeni po jednom členové současných tří koaličních stran. Kromě toho jsou jejími členy i nestraničtí odborníci. Domnívám se však, že by bylo vhodné, aby bylo složení komise pestřejší, jako je tomu v případě Komise pro ICT. Tam máme svého zástupce nejen my, ale i ostatní strany, které nejsou součástí současné koalice. Proto byl Vás chtěl tímto požádat, zda-li by bylo možné tuto komisi otevřít i pro zástupce opozičních stran. 
 
-Za náš klub navrhuji do výše zmíněné komise Mikuláš Ferjenčíka, který se problematice územního plánování dlouhodobě věnuje a je rovněž i členem výboru pro územní rozvoj a územní plánování.
+Za náš klub navrhuji do výše zmíněné komise Mikuláš Ferjenčíka, který se problematice územního plánování dlouhodobě věnuje a je rovněž i členem výboru pro územní rozvoj a územní plánování. Navrhuji, aby byl Mikuláš Ferjenčík jmenován členem komise nebo aby byl aspoň přizván na její jednání jako stálý host.
 
 S pozdravem
 
