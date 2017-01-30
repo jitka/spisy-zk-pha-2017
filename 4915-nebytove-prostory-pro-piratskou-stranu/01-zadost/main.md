@@ -1,5 +1,5 @@
 ---
-title:      
+title:      Žádost o poskytnutí nebytových prostor pro Pirátskou stranu
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -16,7 +16,6 @@ your:
       -     Vršovická 68
       -     101 38 Praha 10
    note:
-      -     vážený pan,
       -     Ing. Vladimír Novák
       -     starosta Městské části Praha 10
 style:      letter
