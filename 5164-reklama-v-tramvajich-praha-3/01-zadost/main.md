@@ -22,7 +22,7 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, vás žádám o následující informace:
 
-* Seznam všech reklamních kampaní, které Městská část Praha 3 od roku 2015 iniciovala buď sama, nebo prostřednictvím svých firem v prostředcích veřejné dopravy. Onen uvedený seznam uveďte prosím v té podobě, kdy každý řádek bude jedna kampaň (resp. zakázka) a jako konkrétní sloupce budou datum zadání zakázky, doba trvání kampaně a celková suma, kterou městská část, případně její dceřinná firma na uvedenou kampaň vydaly. 
+* Seznam všech reklamních kampaní, které Městská část Praha 3 od roku 2015 iniciovala buď sama, nebo prostřednictvím svých firem v prostředcích veřejné dopravy. Kampaní myslím zakázku na reklamní materiály vylepené v prostředcích veřejné dopravy, nebo jiné reklamní služby, které byly v těchto prostředcích realizovány. Onen uvedený seznam uveďte prosím v té podobě, kdy každý řádek bude jedna kampaň (resp. zakázka) a jako konkrétní sloupce budou datum zadání zakázky, doba trvání kampaně a celková suma, kterou městská část, případně její dceřinná firma na uvedenou kampaň vydaly. 
 
 Prosím o poskytnutí informace v elektronické podobě e-mailem. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOCX, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
