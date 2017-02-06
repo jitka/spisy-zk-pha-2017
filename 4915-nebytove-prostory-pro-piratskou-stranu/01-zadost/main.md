@@ -1,5 +1,5 @@
 ---
-title:      Žádost o poskytnutí nebytových prostor pro Pirátskou stranu
+title:      Pirátská žádost o poskytnutí nebytových prostor
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
