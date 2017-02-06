@@ -23,7 +23,7 @@ style:      letter
 
 Vážený pane starosto,
 
-se zájmem po jako Piráti vývoj na městské části Praha 10, která patří k největším a tedy i nejvýznamnějším částem Prahy. Velmi nás překvapila Vaše politika pronájmu nebytových prostor pro potřeby jednotlivých politických stran, především pak v případě hnutí ANO, které získalo prostory o velikosti 117 m2 za mediálně „šestkrát nižší cenu, než je v místě obvyklá.“ Za obdobné ceny byly pronajaty nebytové prostory i dalším stranám – například Zemanovcům, ODS, TOP 09 a ČSSD.
+se zájmem pozorujeme jako Piráti vývoj na městské části Praha 10, která patří k největším a tedy i nejvýznamnějším částem Prahy. Velmi nás překvapila Vaše politika pronájmu nebytových prostor pro potřeby jednotlivých politických stran, především pak v případě hnutí ANO, které získalo prostory o velikosti 117 m2 za mediálně „šestkrát nižší cenu, než je v místě obvyklá.“ Za obdobné ceny byly pronajaty nebytové prostory i dalším stranám – například Zemanovcům, ODS, TOP 09 a ČSSD.
 
 Takové podmínky jsou pro jednotlivé politické strany velice výhodné. Praha 10 se tímto řadí zcela nepochybně k vůdčím městským částem, co do vstřícnosti k rozpočtům jednotlivých politických stran. Ty mohou být, jak vidíme například u České strany sociálně demokratické, velmi najpaté. Je nicméně potřeba trvat na tom, aby podmínky byly rovné pro všechny politické strany.
 
