@@ -22,11 +22,13 @@ style:      letter
 
 Vážení,
 
-oznamuji tímto, že byl panem Janem Vondráčkem, nar. 1979 dle mého názoru spáchán přestupek proti občanskému soužití dle § 49 odst. 1. písm. a) zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, spočívající v ublížení jinému na cti urážkou nebo vydáním v posměch. 
+oznamuji tímto, že byl panem JUDr. Janem Vondráčkem, nar. 1979, dle mého názoru spáchán přestupek proti občanskému soužití dle § 49 odst. 1. písm. a) zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, spočívající v ublížení jinému na cti urážkou. 
 
-Onoho přestupku se pan Vondráček dopustil dne 6. 2. 2017 v 16:10 v prostorách odboru občansko správních agend Úřadu měststské části Praha 1 na adrese Vodičkova 32 při vyřizování dřívějšího oznámení o přestupku. V závěrečné fázi ústního jednání mně totiž urazil sdělání, že „jsem hulvát“
+Onoho přestupku se pan Vondráček dopustil dne 6. 2. 2017 v 16:10 v prostorách odboru občansko správních agend Úřadu měststské části Praha 1 na adrese Vodičkova 32, 2. patro, při vyřizování jeho dřívějšího oznámení o přestupku tím, že mne po skončení ústního jednání za přítomnosti úřední osoby urazil nadávkou, že jsem údajně „hulvát“.
 
-Své tvrzení mohu dokázat i svědecky, neboť ústnímu jednání byli přítomni pracovníci Městské části Praha 1. Žádám Vás proto, abyste jako příslušný úřad tuto činnost prošetřili. Dále žádám, abych byl ve smyslu ust. § 67 odst. 4 zákona č. 200/1990 Sb. o přestupcích, ve znění pozdějších předpisů, do třiceti dnů od doručení tohoto oznámení vyrozuměn o učiněných opatřeních. 
+Žádám Vás proto, abyste jako příslušný úřad tuto činnost prošetřili. V rámci řízení o přestupku navrhuji vyslechnout svědkyni Zdenku Polenovou, která byla u jednání obviněného přítomna. 
+
+Dále žádám, abych byl ve smyslu ust. § 67 odst. 4 zákona č. 200/1990 Sb. o přestupcích, ve znění pozdějších předpisů, do třiceti dnů od doručení tohoto oznámení vyrozuměn o učiněných opatřeních. 
 
 S pozdravem
 
