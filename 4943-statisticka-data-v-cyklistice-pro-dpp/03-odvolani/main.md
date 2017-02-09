@@ -1,5 +1,5 @@
 ---
-title:      Odvolání proti rozhodnutí o odepření informací
+title:      Odvolání proti rozhodnutí o částečném odepření informací
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
