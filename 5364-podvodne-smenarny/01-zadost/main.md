@@ -27,7 +27,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a 
 
 2. Nájemní smlouvu, kterou uzavřela Technická správa komunikací se společností Indigo Infra CZ (nebo jinou soukromou společností) na pozemek s parcelním číslem 2317/1 (případně na stavbu, která se na pozemku nachází), adresa Wilsonova 300/8. 
 
-3. Zda-li výše uvedená nájemní smlouva umožňuje společnosti Indigo Infra CZ dále pronajmout/podnajmout uvedený prostor dalšímu subjektu a zda-li ona smlouva umožňuje provozovat v uvedeném prostoru například směnárnu.
+3. Zda-li výše uvedená nájemní smlouva umožňuje společnosti Indigo Infra CZ (nebo jiné soukromé společnosti) dále pronajmout/podnajmout uvedený prostor dalšímu subjektu a zda-li ona smlouva umožňuje provozovat v uvedeném prostoru například směnárnu.
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost.
 
