@@ -1,5 +1,5 @@
 ---
-title:      Dotaz dle zákona č. 131/2000 Sb., o hlavním městě
+title:      Dotaz dle zákona č. 131/2000 Sb., o hlavním městě Praze
 author:
    name:    Mikuláš Ferjenčík
    phone:   +420 737 943 770
@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
+podávám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, dotaz následujícího obsahu:
 
 * Zda-li nařízení č. 14, kterým se vymezují místa, kde je provozování osobního přepravníku na chodníku, stezce pro chodce, stezce pro chodce a cyklisty, na odděleném pruhu pro chodce na stezce pro chodce a cyklisty, na pěších a obytných zónách a na vozovce zakázáno, lze aplikovat rovněž i na samovyvažovací jednokolky (solowheel) a případné další malé dopravní prostředky založené na základě gyroskopu.
 
