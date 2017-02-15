@@ -31,7 +31,7 @@ v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním m�
 
 3. Jakou finanční ztrátu představuje pro Městskou policii hlavního města Prahy ztráta záruky pro výše uvedená vozidla? (tzn. jaké roční náklady bude muset Městská policie hlavního města Prahy zaplatit za opravy vozidel, které by byly pokryty ze záruky v případě, že by tato nebyla ztracena?)
 
-4. Základní osobní údaje zaměstnance (nebo zaměstnanců) Městské policie hlavního města Prahy, který je/jsou odpovědný za realizaci veřejné zakázky na dodávky vestaveb do vozidel značky Wolksvagen zmíněných výše.
+4. Základní osobní údaje zaměstnance (nebo zaměstnanců) Městské policie hlavního města Prahy, který je/jsou odpovědní za realizaci veřejné zakázky na dodávky vestaveb do vozidel značky Wolksvagen zmíněných výše.
 
 5. Kolik má v současnosti strážníků Městská policie hlavního města Prahy a kolik strážníků Městská policie hlavního města Prahy aktuálně potřebuje pro dosažení plného stavu. 
 
