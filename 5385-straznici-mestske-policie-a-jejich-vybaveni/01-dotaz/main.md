@@ -15,10 +15,13 @@ your:
    address:
       -     Korunní 98
       -     101 00 Praha 10
+   note:
+      -     k rukám ředitele MP hl. m. Prahy
+      -     Ing. Eduardu Šustrovi
 style:      letter
 ---
 
-Vážení,
+Vážený pane řediteli,
 
 v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, pokládám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – dotaz následujícího obsahu:
 
