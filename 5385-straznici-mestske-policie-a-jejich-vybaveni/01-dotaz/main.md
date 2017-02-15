@@ -25,7 +25,7 @@ Vážený pane řediteli,
 
 v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, pokládám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – dotaz následujícího obsahu:
 
-1. Základní osobní údaje zaměstnance (nebo zaměstnanců) Městské policie hlavního města Prahy, který je/jsou odpovědný za realizaci veřejné zakázky na dodávky výstrojních součástek, za kterou obdrželo Hlavní město Praha pokutu ve výši 500 000 Kč od Úřadu pro ochranu hospodářské soutěže (dále jen ÚOHS). 
+1. Základní osobní údaje zaměstnance (nebo zaměstnanců) Městské policie hlavního města Prahy, který je/jsou odpovědní za realizaci veřejné zakázky na dodávky výstrojních součástek, za kterou obdrželo Hlavní město Praha pokutu ve výši 500 000 Kč od Úřadu pro ochranu hospodářské soutěže (dále jen ÚOHS). 
 
 2. Jaká opatření učinila Městská policie hlavního města Prahy v souvislosti se ztrátou záruky autorizovaného servisu společnosti Volkswagen po umístění vestaveb do vozidel Městské policie této značky? 
 
