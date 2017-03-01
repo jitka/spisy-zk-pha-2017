@@ -30,7 +30,9 @@ Uvedený seznam jsem žádal poskytnout v podobě, kdy každý jeden náklad bud
 2. ve druhém sloupci mělo být uvedeno, o jaký náklad se jednalo s dostatečně konkétním určením, např. včetně doby, kdy náklad vznikl (např. odměna, zahraniční cesta, náklady na jeho dopravu na zahraniční zasedání, peněžní nebo nepeněžní dar) a 
 3. ve třetím sloupci mělo být uvedeno uvedeno vyčíslení nákladu v penězích v případě, že disponujete touto informací (např. ceny letenek, výše odměny apod.).
 
-Konstatuji, že jsem v zákonné lhůtě patnácti dní, která je uvedena v zákoně č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), neobdržel odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o infromace. Navrhuji, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám.
+Povinný subjekt následně svým přípisem ze dne 24. února 2017 č. j. LP 89/2017 informoval, že si v souladu s InfZ prodlužuje ze závažných důvodů lhůtu na poskytnutí informací o 8 dní. 
+
+Konstatuji, že jsem v lhůtě dvaceti tří dní neobdržel na svoji žádost odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o infromace. Navrhuji, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
