@@ -1,10 +1,10 @@
 ---
 title:      Žádost o informace podle zákona č. 106/1999 Sb.
 author:
-   name:    Jakub Michálek
-   phone:   +420 775 978 550
-   ds:      4memzkm
-   mail:    jakub.michalek@praha.eu
+   name:    Mikuláš Ferjenčík
+   phone:   +420 737 943 770
+   ds:      
+   mail:    mikulas.ferjencik@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#5566
@@ -29,10 +29,10 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a 
 S pozdravem
 
 ---
-signature: 
-  - Mgr. et Mgr. Jakub Michálek
-  - nar. 6. 2. 1989
+signature:
+  - Mikuláš Ferjenčík
+  - nar. 19. 3. 1987
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
-abbr:       jakub
+abbr:       miki
 ...
