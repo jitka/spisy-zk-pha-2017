@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, Vás žádám o poskytnutí následujících informací:
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, Vás žádám o poskytnutí následujících informací:
 
 * Analýza investičních záměrů, kterou vypracovala společnost Deloitte, a která stanovila následující investiční priority do roku 2030 pro hlavní město Prahu: 1) Dokončení vnitřního Městského okruhu, 2) Vybudování přímého spojení na Letiště Václava Havla, 3) Smart city, 4) Dokončení vnějšího Pražského okruhu, 5) Vybudování nové trasy metra D.
 
