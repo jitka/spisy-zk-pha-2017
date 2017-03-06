@@ -25,7 +25,7 @@ v minulých dnech či týdnech se na mně jako na zastupitele hlavního města P
 
 Dodávám, že má žádost se netýká zařízení typu segway, která byla hlavním předmětem vyhlášky č. 14/2016 Sb., a o jejichž zákazu není pochyb. 
 
-Proto bych Vás chtěl zdvořile požádat neformální cestou o zaslání příslušného stanoviska, které definuje vymezení pojmu *osobní přepravník* z hlediska zákona, resp. tedy, které uvádí, jaké druhy dopravních prostředků pod toto označení spadají – a které všechny jsou tedy vyhláškou č. 14/2016 Sb., na území některých zón centra Prahy zakázány.
+Proto bych Vás chtěl zdvořile požádat o zaslání příslušného stanoviska, které definuje vymezení pojmu *osobní přepravník* z hlediska zákona, resp. tedy, které uvádí, jaké druhy dopravních prostředků pod toto označení spadají – a které všechny jsou tedy vyhláškou č. 14/2016 Sb., na území některých zón centra Prahy zakázány.
 
 S pozdravem
 
