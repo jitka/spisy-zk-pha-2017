@@ -30,15 +30,15 @@ Pochybení, ke kterým mělo při provozu oddělení přestupkového řízení d
 
 * Vedení spisové služby v rozporu s platnými předpisy (§ 64 a 65 zákona č. 499/2004 Sb., o archivnictví a spisové službě; čl. 5 Nařízení ředitele MHMP č. 9/2016, spisový řád) ze strany Mgr Karla Váchala, metodika spisové služby.
 
-V souvislosti s výše uvedeným předkládám tímto Ministerstvu dopravy České republky podnět, na základě něhož žádám o prověření a prošetření celé záležitosti a provozu oddělení přestupkového řízení Magistrátu hlavního města Prahy. 
+V souvislosti s výše uvedeným předkládám tímto Ministerstvu dopravy České republiky podnět, na základě něhož žádám o prověření a prošetření celé záležitosti a provozu oddělení přestupkového řízení Magistrátu hlavního města Prahy. 
 
 V rámci podnětu rovněž navrhuji provést následující opatření:
 
-Kontrolu dodržování povinností na úseku archivnictví výše uvedeného oddělení v souladu s ust. § 71 odst. 1 písm. a) zákona č. 499/2004 Sb., o archivnictví a spisové službě, a to v podobě:
+Kontrolu dodržování povinností na úseku výše uvedeného oddělení v souladu s ust. § 113 odst. 1 a § 115 zákona č. 131/2000 Sb., o hlavním městě Praze, a to v podobě kontroly:
 
-1. Provedení interního auditu spisové služby celého oddělení
-2. Dohledání informací, které by vedly k potvrzení pochybení o existenci padělku úředního razítka oddělení přestupkového řízení, dohledání osob, které tento padělek vyrobily a uplatnění sankce podle platných předpisů.
-3. Prověření interního auditu všech výběrových řízení, které byly uskutečněny oddělením přestupkového řízení, nebo pro potřeby oddělení přestupkového řízení v časovém období od 1. ledna 2016 až do současnosti. 
+1. Dodržení zákonných požadavků ohledně vedení spisové dokumentace ve správním řízení
+2. Dohledání informací, které by vedly k potvrzení či vyvrácení pochybností o existenci padělku úředního razítka oddělení přestupkového řízení, dohledání osob, které tento padělek vyrobily a uplatnění sankce podle platných předpisů.
+3. Prověření kontroly všech výběrových řízení, které byly uskutečněny oddělením přestupkového řízení, nebo pro potřeby oddělení přestupkového řízení v časovém období od 1. ledna 2016 až do současnosti. 
 
 S pozdravem
 
