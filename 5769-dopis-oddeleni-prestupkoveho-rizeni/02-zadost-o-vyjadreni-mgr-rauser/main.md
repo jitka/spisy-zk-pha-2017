@@ -1,0 +1,49 @@
+---
+title:      Žádost o poskytnutí vyjádření
+author:
+   name:    Jakub Michálek
+   phone:   +420 775 978 550
+   ds:      4memzkm
+   mail:    jakub.michalek@praha.eu
+our:
+   name:    Zastupitelský klub Pirátů
+   sign:    ZK Pha \#5769
+your:
+   role:    
+   name:    
+      -     Hlavní město Praha
+   address:
+      -     Mariánské náměstí 2
+      -     110 00 Praha 1
+   note:    
+      -     k rukám vedoucího 
+      -     oddělení přestupkového řízení
+      -     Mgr. Víta Raušera
+style:      letter
+---
+
+Vážený pane Raušere,
+
+v nedávné době jsem obdržel anonymní dopis pracovníků zaměstnanců oddělení přestupkového řízení. Tento dopis se zabývá údajnými pochybeními v oblasti provozu Vašeho oddělení. V souvislosti s nimi (jejich výčet tak, jak jsem je obdržel uvádím níže) bych Vás chtěl **požádat o vyjádření k celé záležitosti.**
+
+Pochybení, ke kterým mělo při provozu oddělení přestupkového řízení dojít, jsou následující: 
+
+* Výroba a používání padělaného kulatého razítka oddělení přestupkového řízení pro účely udělování pokut cizím státním příslušníkům. Zneužití neznalosti správního řízení ze strany cizích státních příslušníků a následné placení pokud mimo režim správního řízení. Výroby této kopie razítka se měli dopustit zaměstnanci Václav Pálka a Jaroslav Shrbený; užívat jej rovněž měla paní Květoslava Drnovská.
+
+* Nestandardní průběh výběrového řízení na pozice referenta správního řízení (vítězové: Simona Marková, Alena Svobodová, Ilena Makovcová, Veronika Mühlhansová, Sabina Zoubelová, Anežka Bártová, Erika Švecová a Lucie Kočková).
+
+* Sexuální oběžování na pracovišti (v prostoru kuchyňky), kterého jste se měl dopustit Vy a dále metodik správního řízení, Mgr. Karel Váchal.
+
+* Vedení spisové služby v rozporu s platnými předpisy (§ 64 a 65 zákona č. 499/2004 Sb., o archivnictví a spisové službě; čl. 5 Nařízení ředitele MHMP č. 9/2016, spisový řád).
+
+Pevně doufám, že Vaše vyjádření přispěje k osvětlení celé záležitosti, odstranění pochybností a napětí v rámci Magistrátu hlavního města Prahy.
+
+S pozdravem
+
+---
+signature: 
+  - Mgr. et Mgr. Jakub Michálek
+  - zastupitel hl. m. Prahy
+  - předseda klubu Pirátů v ZHMP
+abbr:       jakub
+...
