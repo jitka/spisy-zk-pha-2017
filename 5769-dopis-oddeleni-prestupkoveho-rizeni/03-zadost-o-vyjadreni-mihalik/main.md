@@ -28,7 +28,7 @@ v nedávné době jsem obdržel anonymní dopis pracovníků zaměstnanců oddě
 
 Pochybení, ke kterým mělo při provozu oddělení přestupkového řízení dojít, jsou následující: 
 
-* Výroba a používání padělaného kulatého razítka oddělení přestupkového řízení pro účely udělování pokut cizím státním příslušníkům. Zneužití neznalosti správního řízení ze strany cizích státních příslušníků a následné placení pokud mimo režim správního řízení. Výroby této kopie razítka se měli dopustit zaměstnanci Václav Pálka a Jaroslav Shrbený; užívat jej rovněž měla paní Květoslava Drnovská.
+* Výroba a používání padělaného kulatého razítka oddělení přestupkového řízení pro účely udělování pokut cizím státním příslušníkům. Zneužití neznalosti správního řízení ze strany cizích státních příslušníků a následné placení pokut mimo režim správního řízení. Výroby této kopie razítka se měli dopustit zaměstnanci Václav Pálka a Jaroslav Shrbený; užívat jej rovněž měla paní Květoslava Drnovská.
 
 * Nestandardní průběh výběrového řízení na pozice referenta správního řízení (vítězové: Simona Marková, Alena Svobodová, Ilena Makovcová, Veronika Mühlhansová, Sabina Zoubelová, Anežka Bártová, Erika Švecová a Lucie Kočková).
 
