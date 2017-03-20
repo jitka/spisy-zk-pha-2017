@@ -24,7 +24,7 @@ style:      letter
 
 Vážený pane Raušere,
 
-v nedávné době jsem obdržel anonymní dopis pracovníků zaměstnanců oddělení přestupkového řízení. Tento dopis se zabývá údajnými pochybeními v oblasti provozu Vašeho oddělení. V souvislosti s nimi (jejich výčet uvádím níže) bych Vás chtěl **požádat o vyjádření k celé záležitosti.**
+v nedávné době jsem obdržel anonymní dopis pracovníků zaměstnanců oddělení přestupkového řízení. Tento dopis se zabývá údajnými pochybeními v oblasti provozu Vašeho oddělení. V souvislosti s nimi (jejich výčet uvádím níže) bych Vás chtěl v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze **požádat o vyjádření k celé záležitosti.** 
 
 Pochybení, ke kterým mělo při provozu oddělení přestupkového řízení dojít, jsou následující: 
 
