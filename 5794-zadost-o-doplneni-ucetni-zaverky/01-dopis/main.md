@@ -26,7 +26,6 @@ Jedná se konkrétně o společnosti:
 * **E SIDE PROPERTY LIMITED organizační složka v ČR** (IČ: 27590623), která nezveřejnila účetní závěrku za rok 2014, 2015 a 2016.
 * **Eden Arena, a.s.** (IČ: 29413001), která nezveřejnila žádnou účetní závěrku
 * **Charlton a.s.** (IČ: 64948307), která nezveřejnila účetní závěrku za rok 2015
-* **Via Chem Group, a.s.** (IČ: 26694590), která nezveřejnila účetní závěrku za rok 2013, 2014, 2014 a 2016.
 
 Tyto společnosti porušily povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby rejstříkový soud postupoval podle § 104, ev. § 105 a 106 zákona č. 304/2013 Sb., o veřejných rejstřících, a aby příslušný finanční úřad prověřil, zda výše uvedená společnost spáchala správní delikt podle § 37a odst. 1 písm. h) zákona o účetnictví.
 
