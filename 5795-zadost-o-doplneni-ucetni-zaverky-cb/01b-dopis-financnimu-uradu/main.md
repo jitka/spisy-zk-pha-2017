@@ -10,10 +10,10 @@ our:
    sign:    ZK Pha \#5795
 your:
    role:    
-   name:    Krajský soud v Českých Budějovicích
+   name:    Finanční úřad pro Jihočeský kraj
    address:
-      -     Zátkovo nábřeží 2
-      -     370 84 České Budějovice
+      -     F. A. Gerstnera 1/5
+      -     370 01 České Budějovice
 style:      letter
 ---
 
