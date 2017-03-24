@@ -23,7 +23,7 @@ chtěl bych tímto dopisem upozornit, že v případě společnosti Via Chem Gro
 
 Vzhledem k tomu, že je společnost registrována u rejstříkového soudu v Českých Budějovicích (spisová značka B 2180), který je součástí Krajského soudu v Českých Budějovicích, kontaktuji v tomto případě právě vás. 
 
-Tato společnost porušila povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby rejstříkový soud postupoval podle § 104, ev. § 105 a 106 zákona č. 304/2013 Sb., o veřejných rejstřících.
+Tato společnost porušila povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby příslušný finanční úřad prověřil, zda výše uvedená společnost spáchala správní delikt podle § 37a odst. 1 písm. h) zákona o účetnictví.
 
 Žádám o písemné vyrozumění o přijatých opatřeních.
 

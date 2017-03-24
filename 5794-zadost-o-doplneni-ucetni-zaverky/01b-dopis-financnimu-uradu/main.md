@@ -10,10 +10,10 @@ our:
    sign:    ZK Pha \#5794
 your:
    role:    
-   name:    Městský soud v Praze
+   name:    Finanční úřad pro hlavní město Prahu
    address:
-      -     Slezská 2000/9
-      -     120 00 Praha 2
+      -     Štěpánská 619/28
+      -     111 21 Praha 1 
 style:      letter
 ---
 
@@ -27,7 +27,7 @@ Jedná se konkrétně o společnosti:
 * **Eden Arena, a.s.** (IČ: 29413001), která nezveřejnila žádnou účetní závěrku
 * **Charlton a.s.** (IČ: 64948307), která nezveřejnila účetní závěrku za rok 2015
 
-Tyto společnosti porušily povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby rejstříkový soud postupoval podle § 104, ev. § 105 a 106 zákona č. 304/2013 Sb., o veřejných rejstřících.
+Tyto společnosti porušily povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby finanční úřad prověřil, zda výše uvedená společnost spáchala správní delikt podle § 37a odst. 1 písm. h) zákona o účetnictví.
 
 Žádám o písemné vyrozumění o přijatých opatřeních.
 
