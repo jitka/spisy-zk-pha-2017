@@ -26,6 +26,8 @@ Vážený pane řediteli,
 
 v nedávné době jsem obdržel anonymní dopis pracovníků zaměstnanců oddělení přestupkového řízení, které působí v rámci Vašeho odboru. Zmíněný dopis podrobně popisuje pochybení, ke kterým mělo údajně dojít ze strany Vašich podřízených. V souvislosti s nimi (jejich výčet uvádím níže) bych Vás chtěl v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze **požádat o vyjádření k celé záležitosti.**
 
+\newpage
+
 Pochybení, ke kterým mělo při provozu oddělení přestupkového řízení dojít, jsou následující: 
 
 1. Výroba a používání padělaného kulatého razítka oddělení přestupkového řízení pro účely udělování pokut cizím státním příslušníkům. Zneužití neznalosti správního řízení ze strany cizích státních příslušníků a následné placení pokut mimo režim správního řízení. Výroby této kopie razítka se měli dopustit zaměstnanci Václav Pálka a Jaroslav Shrbený; užívat jej rovněž měla paní Květoslava Drnovská.

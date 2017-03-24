@@ -11,7 +11,7 @@ our:
 your:
    role:    
    name:    
-      -     Hlavní město Praha
+      -     Ministerstvo dopravy České republiky
    address:
       -     Nábřeží Ludvíka Svobody 1222/12
       -     110 00 Praha 1-Nové Město
