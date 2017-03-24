@@ -46,13 +46,13 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 ### Žalobní body
 
 1. Žalobce se domnívá, že žalovaná strana požadovanými informacemi disponuje a že měly být dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, poskytnuty. Žalovaná strana neuvedla žádný důvod, který by dokládal, že požadované informace nemá k dispozici, s výjimkou prostého sdělení (výhrady žadatele jsou nepřípadné).
+2. Žalobce i nadále trvá na závěru, že s poskytnutím osobních údajů souhlasily osoby uvedené v seznamu v okamžiku, kdy se staly advokáty či advokátními koncipienty. Žalobce nesouhlasí s tím, že jejich vyškrtnutím byl takový souhlas zrušen a považuje proto rozhodnutí žalované za nezákonné. 
 
 ### Návrh rozsudku
 
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Rozhodnutí žalované ze dne 21. 3. 2017 se zrušuje.
-2. Rozhodnutí povinného subjektu ze dne 12. 4. 2016 se zrušuje a povinnému subjektu se nařizuje poskytnout požadované informace.
+1. Rozhodnutí povinného subjektu ze dne 12. 4. 2016 se zrušuje a povinnému subjektu se nařizuje poskytnout požadované informace.
 2. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám zástupce žalobce.
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
