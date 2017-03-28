@@ -32,6 +32,8 @@ dne 7. února 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 Česká televize mě následně svým přípisem ze dne 24. února 2017 č. j. LP 88/2017 informovala, že si v souladu s InfZ prodlužuje ze závažných důvodů lhůtu na poskytnutí informací o 8 dní. 
 
+\newpage
+
 Konstatuji, že jsem v lhůtě dvaceti tří dní neobdržel na svoji žádost odpověď. Proto jsem podal dne 9. března 2017 v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhl jsem, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám. Vzhledem k tomu, že ani povinný subjekt, ani nadřízený správní orgán na moji stížnost nereagovaly jsem nucen se domnívat, že je povinný subjekt nečinný. Žádám proto v souladu s ust. § 80 zákona č. 500/2004 Sb., správního řádu, aby učinil opatření proti nečinnosti. 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
