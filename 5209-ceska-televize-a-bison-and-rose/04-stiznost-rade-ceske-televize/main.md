@@ -32,6 +32,8 @@ dne 7. února 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 Povinný subjekt následně svým přípisem ze dne 24. února 2017 č. j. LP 88/2017 informoval, že si v souladu s InfZ prodlužuje ze závažných důvodů lhůtu na poskytnutí informací o 8 dní. Vzhledem k tomu, že Česká televize jako povinný subjekt neodpověděla ani v prodloužené lhůtě dvaceti tří dnů, podal jsem dne 9. 3. 2017 v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost. Mojí stížnost, která směřovala řediteli České televize v souladu s § 20 odst. 5 InfZ, však nebyla dle zákona vyřízena. 
 
+\newpage
+
 V souladu s tím proto podávám Radě České televize dle § 8 odst. 1 písm. h) zákona č. 483/1991 Sb., zákona o České televizi, stížnost na generálního ředitele České televize. Domnívám se, že ředitel České televize postup **dle uvedeného zákona zcela ignoruje**. Vzhledem k tomu, že pan ředitel stojí v čele veřejné instituce podle § 2 odst. 1 InfZ a rozhoduje právě o žádostech dle tohoto zákona, považuji takový stav za nepřijatelný. Proto doporučuji, aby Rada České televize provedla prověrku hospodaření a výše uvedené skutečnosti vzala v úvahu ve výběrovém řízení na nového ředitele. 
 S pozdravem
 
