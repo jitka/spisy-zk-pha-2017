@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), žádám jako fyzická osoba o poskytnutí následujících informací:
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), žádám jako fyzická osoba o poskytnutí  informací:
 
 Seznam všech věcí (řízení, případně samostaných úkonů provedených mimo řízení) v působnosti povinného subjektu, která splňují následující podmínky: 
 
