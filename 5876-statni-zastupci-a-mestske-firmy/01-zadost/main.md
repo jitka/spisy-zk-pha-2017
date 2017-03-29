@@ -41,4 +41,7 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy za Piráty
 abbr:       jakub
+attachments:
+  - Seznam státních zástupců
+  - Seznam organizací řízených či ovládaných hl. m. Prahou
 ...
