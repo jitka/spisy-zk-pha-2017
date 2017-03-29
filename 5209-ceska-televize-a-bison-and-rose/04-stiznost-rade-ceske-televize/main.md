@@ -34,7 +34,8 @@ Povinný subjekt následně svým přípisem ze dne 24. února 2017 č. j. LP 88
 
 \newpage
 
-V souladu s tím proto podávám Radě České televize dle § 8 odst. 1 písm. h) zákona č. 483/1991 Sb., zákona o České televizi, stížnost na generálního ředitele České televize. Domnívám se, že ředitel České televize postup **dle uvedeného zákona zcela ignoruje**. Vzhledem k tomu, že pan ředitel stojí v čele veřejné instituce podle § 2 odst. 1 InfZ a rozhoduje právě o žádostech dle tohoto zákona, považuji takový stav za nepřijatelný. Proto doporučuji, aby Rada České televize provedla prověrku hospodaření a výše uvedené skutečnosti vzala v úvahu ve výběrovém řízení na nového ředitele. 
+V souladu s tím proto podávám Radě České televize dle § 8 odst. 1 písm. h) zákona č. 483/1991 Sb., o České televizi, stížnost na generálního ředitele České televize. Domnívám se, že ředitel České televize postup **dle uvedeného zákona zcela ignoruje**. Vzhledem k tomu, že pan ředitel stojí v čele veřejné instituce podle § 2 odst. 1 InfZ a rozhoduje právě o žádostech dle tohoto zákona, považuji takový stav za nepřijatelný. Proto doporučuji, aby Rada České televize provedla prověrku hospodaření a výše uvedené skutečnosti vzala v úvahu ve výběrovém řízení na nového ředitele. 
+
 S pozdravem
 
 ---
