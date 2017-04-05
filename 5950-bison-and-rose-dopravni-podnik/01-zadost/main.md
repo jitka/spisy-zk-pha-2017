@@ -24,7 +24,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, �
 
 1. Všechny dokumenty, které má Dopravní podnik hl. m. Prahy k dispozici, a které se týkají právních vztahů Dopravního podniku hl. m. Prahy se společnostmi My Solutions, Pan Solutions a Bison & Rose. 
 2. Všechny dokumenty, které má Dopravní podnik hl. m. Prahy k dispozici, a které se týkají poskytování PR služeb a komunikačních služeb. 
-3. Seznam všech smluv či objednávek se společnostmi My Solutions, Pan Solutions a Bison&Rose, nebo jinými, které poskytovaly PR a komunikační služby Dopravnímu podnik hl. m. Prahy, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017
+3. Seznam všech smluv či objednávek se společnostmi My Solutions, Pan Solutions a Bison&Rose, nebo jinými, které poskytovaly PR a komunikační služby Dopravnímu podniku hl. m. Prahy, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
