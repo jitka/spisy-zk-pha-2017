@@ -11,19 +11,19 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Městská část Praha 2
+      -     Městská část Praha 3
    address:
-      -     náměstí Míru 20/600 
-      -     120 39 Praha 2
+      -     Seifertova 51
+      -     130 85 Praha 3
 sendby:     mail
 style:      letter
 ---
 
 Vážení,
 
-dne 1. března 2017 jsem Vaši městskou část v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), požádal jako fyzická osoba o poskytnutí smluv, které jste uzavřeli se společností Lasesmed s.r.o. Žádal jsem o poskytnutí inforamcí prostřednictvím jejich uveřejnění v Registru smluv. 
+dne 1. března 2017 jsem vás v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), požádal jako fyzická osoba o poskytnutí seznamu smluv, které jste od roku 2008 uzavřeli se společností Lasesmed s.r.o.
 
-Vzhledem k tomu, že tyto smlouvy byly uveřejněny v Registru smluv pouze částečně, a nikoliv v rozmezí, které jsem ve své žádosti požadoval, mi byla požadovaná informace poskytnuta pouze částečně. Proto podávám v souladu s ustanovením §16a odst. 1 písm. c) InfZ stížnost na vyřizování žádosti o informace. 
+V dopise ze dne 14. března jste mi odpověděli, že s touto společností evidujete pouze 1 smlouvu. Jen z letmého pohledu do registru smluv (viz https://www.hlidacsmluv.cz/Hledat?Q=28363809 či https://smlouvy.gov.cz/vyhledavani) je přitom zřejmé, že jen od října 2016 bylo smluv odpovídajících mému požadavku mnohem více (minimálně 19). Proto podávám v souladu s ustanovením §16a odst. 1 písm. c) InfZ stížnost na vyřizování žádosti o informace. 
 
 Navrhuji, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
