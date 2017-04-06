@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace podle zákona č. 106/1999 Sb.
+title:      Podnět zastupitele dle zákona č. 131/2001 Sb., o hlavním městě Praze
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
