@@ -47,7 +47,7 @@ Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního měst
 |Vedle Massarykova nádraží|Praha 1|50.08824, 14.43305|1|5|
 |Na Poříčí|Praha 1|50.09008, 14.43555|1|3|
 |Thámova a Křižíkova|Praha 8|50.09282, 14.45219|2|10||
-|Novákových|Praha 8|50.1043, 14.47848|1|3|
+|Novákových|Praha 8|50.10430, 14.47848|1|3|
 |Přístaviště|Praha 4|50.04001, 14.40954|1|3|
 |Praha - Vršovice|Praha 10|50.06502, 14.44806|1|5|
 |nám. Bratří synků|Praha 10|50.06452, 14.44063|1|5|
