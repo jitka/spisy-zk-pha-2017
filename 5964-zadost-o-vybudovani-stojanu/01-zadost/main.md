@@ -54,7 +54,7 @@ Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního měst
 |Křížová|Praha 5|50.06291, 14.40489|1|3|
 |Podolská vodárna|Praha 4|50.05908, 14.41923|1|5|
 
-Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
+Prosím o vyrozumění v zákonné lhůtě 30 dnů o vyřízení tohoto podnětu. Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
