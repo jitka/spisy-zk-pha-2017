@@ -26,16 +26,16 @@ Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního měst
 
 |Název|Městská část|GPS orientačně|počet hnízd|počet U|
 | ------------- |:-------------:| -----:|-----:|-----:|
-|Maniny|Praha7|50.10321, 14.4533|1|5|
+|Maniny|Praha 7|50.10321, 14.45330|1|5|
 |Nádraží Holešovice|Praha 7|50.10822, 14.44065|1|5|
 |Strossmayerovo náměstí|Praha 7|50.09892, 14.43342|1|4|
 |Letenské náměstí|Praha 7|50.10004, 14.42299|1|5|
 |Praha - Dejvice|Praha 6|50.09726, 14.39963|1|3|
 |Metro  Malostranská|Praha 1|50.09073, 14.40962|1|4|
 |Senát ČR|Praha 1|50.09013, 14.40519|1|3|
-|Sněmovna ČR|Praha 1|50.0891, 14.40382|1|3|
+|Sněmovna ČR|Praha 1|50.08910, 14.40382|1|3|
 |Muzeum Hudby|Praha 1|50.08506, 14.40446|1|3|
-|Újezd|Praha 1|50.0807, 14.40442|1|5|
+|Újezd|Praha 1|50.08070, 14.40442|1|5|
 |Arbesovo náměstí|Praha 5|50.07648, 14.40438|1|5|
 |Na knížecí|Praha 5|50.06885, 14.40447|1|5||
 |Výtoň|Praha 2|50.06819, 14.41468|2|10||
