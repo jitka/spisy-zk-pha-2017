@@ -24,7 +24,8 @@ v souladu s § 51 odst. 3 písm. b) zákona č. 131/2001 Sb., o hlavním městě
 
 Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního města Prahy zřízením cyklistických stojanů na následujících místech:
 
-!Název!Městská část!GPS orientačně!počet hnízd!počet U!
+|Název|Městská část|GPS orientačně|počet hnízd|počet U|
+| ------------- |:-------------:| -----:|-----:|-----:|
 |Maniny|Praha7|50.10321, 14.4533|1|5|
 |Nádraží Holešovice|Praha 7|50.10822, 14.44065|1|5|
 |Strossmayerovo náměstí|Praha 7|50.09892, 14.43342|1|4|
