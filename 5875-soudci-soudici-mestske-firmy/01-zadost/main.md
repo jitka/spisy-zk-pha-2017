@@ -42,6 +42,6 @@ signature:
   - zastupitel hl. m. Prahy
 abbr:       jakub
 attachments:
-  - Seznam státních zástupců
+  - Seznam soudců
   - Seznam organizací řízených či ovládaných hl. m. Prahou
 ...
