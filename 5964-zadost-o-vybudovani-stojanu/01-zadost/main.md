@@ -16,9 +16,11 @@ your:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
    note: 
-      -     k rukám:
-      -     Ing. Petru Dolínkovi, náměstkovi primátorky
-      -     Mgr. Petře Kolínské, náměstkyni primátorky
+      -     "k rukám:"
+      -     Ing. Petru Dolínkovi, 
+      -     náměstkovi primátorky
+      -     Mgr. Petře Kolínské, 
+      -     náměstkyni primátorky
 style:      letter
 ---
 
