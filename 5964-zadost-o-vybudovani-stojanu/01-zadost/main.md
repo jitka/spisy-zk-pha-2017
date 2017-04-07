@@ -15,14 +15,18 @@ your:
    address:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
+   note: 
+      -     k rukám:
+      -     Ing. Petru Dolínkovi, náměstkovi primátorky
+      -     Mgr. Petře Kolínské, náměstkyni primátorky
 style:      letter
 ---
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2001 Sb., o hlavním městě Praze, vznáším tímto na Radu hlavního města Prahy jako fyzická osoba podnět následujícího obsahu: 
+v nedávné době mě oslovili občané a společnost Rekola ohledně špatné situace v našem hlavním městě v souvislosti s umístěním stojanů pro kola na vysoce exponovaných místech. Stojanů se dlouhodobě nedostává, přestože je cyklisté potřebují. Proto v souladu s § 51 odst. 3 písm. b) zákona č. 131/2001 Sb., o hlavním městě Praze, vznáším tímto na Radu hlavního města Prahy jako fyzická osoba podnět následujícího obsahu: 
 
-Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního města Prahy zřízením cyklistických stojanů na následujících místech:
+Navrhuji, aby Rada hlavního města Prahy svým usnesením zaúkolovala Magistrát hlavního města Prahy zřízením cyklistických stojanů na následujících místech:
 
 |Název|Městská část|GPS orientačně|počet hnízd|počet U|
 | ------------- |:-------------:| -----:|-----:|-----:|
@@ -53,6 +57,8 @@ Navrhji, aby Rada hlavního města Prahy zaúkolovala Magistrát hlavního měst
 |nám. Bratří synků|Praha 10|50.06452, 14.44063|1|5|
 |Křížová|Praha 5|50.06291, 14.40489|1|3|
 |Podolská vodárna|Praha 4|50.05908, 14.41923|1|5|
+
+Žádám, abych mohl být přítomen jednání Rady hlavního města Prahy k tomuto bodu. 
 
 Prosím o vyrozumění v zákonné lhůtě 30 dnů o vyřízení tohoto podnětu. Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
