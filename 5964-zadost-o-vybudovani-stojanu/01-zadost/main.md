@@ -62,7 +62,7 @@ Navrhuji, aby Rada hlavního města Prahy svým usnesením zaúkolovala Magistr�
 
 Žádám, abych mohl být přítomen jednání Rady hlavního města Prahy k tomuto bodu. 
 
-Z mapy zpracované IPR vyplývá, že velká část pozemků na území Prahy 1 je ve správě MHMP, a tedy není zbudování stojanu podmíněno souhlasem samosprávy MČ Praha 1 (jak uvádí přiložená mapka, hnědá barva).
+Z mapy zpracované IPR vyplývá, že velká část pozemků na území Prahy 1 je ve správě MHMP, a tedy není zbudování stojanu podmíněno souhlasem samosprávy MČ Praha 1 (jak uvádí přiložená mapka).
 
 Prosím o vyrozumění v zákonné lhůtě 30 dnů o vyřízení tohoto podnětu. Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
