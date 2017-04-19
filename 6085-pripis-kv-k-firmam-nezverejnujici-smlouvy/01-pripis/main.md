@@ -9,11 +9,10 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha #6004
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
-      -     Hlavní město Praha
-   address:
       -     Kontrolní výbor ZHMP
+   address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
 sendby:     mail
