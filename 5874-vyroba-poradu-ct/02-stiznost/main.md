@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-dne 3. dubna 2017 jsem souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám jako fyzická osoba o poskytnutí následujících informací:
+dne 3. dubna 2017 jsem souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, požádal jako fyzická osoba o poskytnutí následujících informací:
 
 Seznam všech dodavatelů v oblasti výroby pořadů jejichž celkový roční objem plnění vůči České televizi přesáhl hodnotu 1 milionu Kč (bez DPH). Uvedený seznam žádám pro časové období za roky 2013-2016. Seznam bude rovněž zahrnovat zakázkovou výrobu pořadů, koprodukcí a dohod o společné výrobě. Do objemu plnění zahrňte i věcné plnění.
 
