@@ -23,7 +23,7 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám o poskytnutí následujících informací: 
 
-* Poskytnutí seznamu smluv, které Praha 3 od roku 2008 uzavřela s obchodní společností Lasesmed, s.r.o., IČ: 28363809; v tomto seznamu požaduji uvést pro každou smlouvu následující údaje: název (předmět) smlouvy, datum uzavření, výši plnění ze smlouvy vyplývající, počet oslovených/přihlášených uchazečů (pokud je evidován) a dobu trvání smlouvy.
+* Poskytnutí seznamu smluv, které Praha 2 od roku 2008 uzavřela s obchodní společností Lasesmed, s.r.o., IČ: 28363809; v tomto seznamu požaduji uvést pro každou smlouvu následující údaje: název (předmět) smlouvy, datum uzavření, výši plnění ze smlouvy vyplývající, počet oslovených/přihlášených uchazečů (pokud je evidován) a dobu trvání smlouvy.
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz nebo do datové schránky xwfwgha. Předem děkuji za Vaši vstřícnost.
 
