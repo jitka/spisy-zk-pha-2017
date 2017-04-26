@@ -26,7 +26,7 @@ dne 10. dubna 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 2. Seznam všech smluv či objednávek s výše uvedenými společnostmi, které poskytovaly PR a komunikační služby Ministerstvu pro místní rozvoj, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017.
 
-/newpage
+\newpage
 
 Konstatuji, že jsem v patnáctidenní lhůtě, kterou předvídá InfZ, neobdržel na svoji žádost odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám. 
 
