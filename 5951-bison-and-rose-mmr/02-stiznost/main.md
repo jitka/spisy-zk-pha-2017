@@ -26,6 +26,8 @@ dne 10. dubna 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 2. Seznam všech smluv či objednávek s výše uvedenými společnostmi, které poskytovaly PR a komunikační služby Ministerstvu pro místní rozvoj, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017.
 
+/newpage
+
 Konstatuji, že jsem v patnáctidenní lhůtě, kterou předvídá InfZ, neobdržel na svoji žádost odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám. 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
