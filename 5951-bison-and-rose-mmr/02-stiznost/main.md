@@ -24,7 +24,7 @@ dne 10. dubna 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném př
 
 1. Všechny dokumenty, které má Ministerstvo pro místní rozvoj k dispozici, a které se týkají právních vztahů Ministerstva pro místní rozvoj se společnostmi Pan Solutions, s.r.o., IČ 26740559, Bison & Rose, s.r.o., IČ 25660004, B&R Holding, s.r.o., IČ 04673557, Astronaut Creative Lab, IČ 05099528, Merit Government Relations s.r.o., IČ 28538722, Communa s.r.o., IČ 27599264, My.cz s.r.o., IČ 26501023, Bouda Kladenka s.r.o., IČ 28254988.
 
-2. Seznam všech smluv či objednávek s výše uvedenými společnsotmi, které poskytovaly PR a komunikační služby Ministerstvu pro místní rozvoj, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017.
+2. Seznam všech smluv či objednávek s výše uvedenými společnostmi, které poskytovaly PR a komunikační služby Ministerstvu pro místní rozvoj, a které byly účinné v období od 1. 1. 2015 až 1. 1. 2017.
 
 Konstatuji, že jsem v patnáctidenní lhůtě, kterou předvídá InfZ, neobdržel na svoji žádost odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) stížnost. Navrhuji, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám. 
 
