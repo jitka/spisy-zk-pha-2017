@@ -21,7 +21,7 @@ your:
 style:      letter
 ---
 
-Vážení,
+Vážený pane guvernére,
 
 dne 21. března 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), požádal jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
