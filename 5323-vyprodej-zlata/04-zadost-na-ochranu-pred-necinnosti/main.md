@@ -29,6 +29,8 @@ dne 21. března 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném p
 
 Dne 30. března 2017 jsem obdržel odpověď od povinného subjektu, ve které uvádí, že nemůže požadovanou informaci poskytnout v souvislosti s bankovním tajemstvím. Uvedl i důvody, proč je toho názoru, že lze bankovní tajemství dle zákona 21/1992 Sb., o bankách, a 6/1992 Sb., o České národní bance považovat za důvod pro odmítnutí žádosti jako tzv. speciální důvod pro neposkytnutí informace. 
 
+\newpage
+
 S argumentací povinného subjektu jsem nesouhlasil, a tak jsem dne 12. dubna 2017 poslal povinnému subjektu odvolání datovou schránkou. Ten měl v zákonné lhůtě patnácti dní mé odvolání vydřídit. Vzhledem k tomu, že je odvolacím orgánem ten, kdo
 stojí v čele povinného subjektu (v souladu s ust. § 20 odst. 5 zákona č. 106/1999 Sb., o svobodném přístupu k informacím), nelze uplatnit patnáctidenní lhůtu na předání odvolání; odvolací orgán tak musí žádost vyřídit do 15 dnů. Protože jsem vyřízení svého odvolání v zákonné lhůtě neobdržel, žádám, aby nadřízený správní orgán učinil v souladu s § 80 zákona č. 500/2004 Sb., správního řádu, opatření proti nečinnosti.
 
