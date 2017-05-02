@@ -36,7 +36,6 @@ S úctou
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - člen kontrolního výboru ZHMP
   - zastupitel hl. m. Prahy
 abbr:       jakub
 ...
