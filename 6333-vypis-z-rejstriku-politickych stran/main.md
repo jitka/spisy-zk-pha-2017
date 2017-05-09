@@ -24,7 +24,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, �
 
 * Výpis z rejstříku politických stran, vedený Ministerstvem vnitra České republiky, platný pro Českou pirátskou stranu ke dni 9. května 2017. 
 
-Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm.
+Žádám o poskytnutí informací ve **fyzické podobě**, zaslaný poštou. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17).
 
 S pozdravem
 
