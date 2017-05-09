@@ -25,7 +25,7 @@ Vážení,
 
 * Ověřený výpis z rejstříku politických stran, vedený Ministerstvem vnitra České republiky, platný pro Českou pirátskou stranu ke dni 9. května 2017. 
 
-Žádám o poskytnutí výpisu ve **fyzické podobě**, zaslaný poštou. Kolek v hodnotě 50 Kč je k žádosti přiložen. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17).
+Žádám o poskytnutí výpisu ve **fyzické podobě**, zaslaný poštou. Kolek v hodnotě 50 Kč je k žádosti přiložen. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Výpis prosím zašlete na adresu Mariánské náměstí 2, Praha 1, 110 00.
 
 S pozdravem
 
