@@ -13,7 +13,7 @@ your:
    name:    
       -     Ministerstvo vnitra České republiky
    address:
-      -     Ministerstvo vnitra, Nad Štolou 3
+      -     Nad Štolou 3
       -     170 00 Praha 1
 style:      letter
 ---
