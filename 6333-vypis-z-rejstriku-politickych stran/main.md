@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-žádám za Českou pirátskou stranu – o poskytnutí následujícího dokumentu:
+žádám za Českou pirátskou stranu poskytnutí následujícího dokumentu:
 
 * Ověřený výpis z rejstříku politických stran, vedený Ministerstvem vnitra České republiky, platný pro Českou pirátskou stranu ke dni 9. května 2017. 
 
