@@ -44,6 +44,6 @@ signature:
   - předseda klubu Pirátů v ZHMP
 abbr:       jakub
 attachments:
-  - Anonymní dopispracovníků zaměstnanců oddělení přestupkového řízení
+  - Anonymní dopis pracovníků zaměstnanců oddělení přestupkového řízení
   - Vyjádření Ing. Víta Raušera, ředitele oddělení přestupkových řízení
 ...
