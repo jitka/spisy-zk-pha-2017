@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#5953
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     hlavní město Praha
    address:
