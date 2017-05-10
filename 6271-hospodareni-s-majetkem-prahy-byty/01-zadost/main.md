@@ -17,7 +17,7 @@ your:
       -     110 00, Praha 1
    note:
       -     k rukám ředitelky Odboru kontrolních činností
-      -     Ing. Ireně Ondráčkové
+      -     Ing. Ireny Ondráčkové
 style:      letter
 ---
 
