@@ -23,8 +23,9 @@ Vážená paní předsedkyně, vážení členové kontrolního výboru ZHMP,
 
 v roce 2014 schválila Rada hlavního města Prahy celkem 8 usnesení (2665, tisk R-15637; 2666, tisk R-15636; 2667, tisk R-15642; 2668, tisk R-15640; 2669, tisk R-15639; 2670, tisk R-15638; 2671, tisk R-15641; 2672, tisk 15633, která nařídila několika městským firmám (podle výše uvedených tisků ve stejném pořadí): Obecní dům a.s., Kolektory Praha, a.s, Technická správa komunikací, Rozvojové projekty Praha, Pražská vodohospodářská společnost, a.s., Operátor ICT (dříve Operátor Opencard), Trade Centre Praha a.s. a Dopravní podnik hl. m. Prahy, a.s. zveřejňovat prostřednictvím svých webových stránek smlouvy, jejíž jednou smluvní stranou jsou právě tyto společnosti.
 
-Konstatuji, že některé z výše uvedených společností **své smlouvy nezveřejňují** a postupují tak **v rozporu s platnými usnesení RHMP**. Jmenovitě se jedná o spolenčnosti:
+Konstatuji, že některé z výše uvedených společností **své smlouvy nezveřejňují** a postupují tak **v rozporu s platnými usnesení RHMP**. Jmenovitě se jedná o společnosti:
 
+* Obecní dům, a.s. (IČ: 27251918)
 * Kolektory Praha, a.s. (IČ: 26714124)
 * Rozvojové projekty Praha, a.s. (IČ: 25649329)
 * Pražská vodohospodářská společnost a.s. (IČ: 25656112)
