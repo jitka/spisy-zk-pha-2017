@@ -29,13 +29,9 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a 
 
 2. Návrh Pravidel pro zveřejňování smluv a jejich dodatků řešících problematiku zveřejňování smluv v organizacích zřízených hl. m. Prahou včetně definování úkonů potřebných k zavedení těchto Pravidel do praxe, jejichž vznik předvídalo usnesení RHMP č. 1504 z roku 2015.
 
-3. Postup k zavedení pravidel zveřejňování smluv v akciových společnostech, v nichž má hl.m. Praha majetkový podíl, jejichž vznik předvídalo usnesení RHMP č. 1504 z roku 2015.
+3. Postup k zavedení pravidel zveřejňování smluv v akciových společnostech, v nichž má hl.m. Praha majetkový podíl, jejichž vznik předvídalo usnesení RHMP č. 1504 z roku 2015. 
 
-4. Ty předpisy akciových společností, v nichž má hlavní město Praha většinový podíl, které byly schváleny příslušnými společnostmi na základě usnesení Rady hlavního města Prahy k zveřejňování smluv. 
-
-5. Seznam kroků, které učinil Magistrát hlavního města Prahy ve věci zveřejňování smluv po schválení usnesení č. 1684 z roku 2016.
-
-6. Adresy datových stránek všech akciových společností, v nichž má hlavní město Praha většinový podíl, a organizací, zřízených hl. m. Prahou.
+4. Seznam kroků, které učinil Magistrát hlavního města Prahy ve věci zveřejňování smluv po schválení usnesení č. 1684 z roku 2016.
 
 \newpage
 
