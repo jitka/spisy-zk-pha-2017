@@ -1,5 +1,5 @@
 ---
-title:      Žádost o výpůjčku veřejných prostranství a sloupů veřejného osvětlení.
+title:      Žádost o výpůjčku veřejných prostranství a sloupů veřejného osvětlení
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#6408
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     Hlavní město Praha
    address:
