@@ -22,7 +22,7 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
-1. Seznam veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy, které lze vypůjčit za účelem prezentace politických stran pro volbu do Poslanecké sněmovny Parlamentu České republiky v souladu s usnesením Rady hlavního města Prahy č. 815 ze dne ze dne 11. dubna 2017
+1. Seznam a mapu veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy, které lze vypůjčit za účelem prezentace politických stran pro volbu do Poslanecké sněmovny Parlamentu České republiky v souladu s usnesením Rady hlavního města Prahy č. 815 ze dne ze dne 11. dubna 2017
 
 2. Související předpisy vztahující se ke specifikaci reklamních materiálů, které by byly umístěny v souladu s výše uvedeným bodem (např. soubor pravidel, které musí žadatel dodržet z hlediska zákonných požadavků, dopravní bezpečnosti a technických limitací uvedených veřejných prostranství).
 
