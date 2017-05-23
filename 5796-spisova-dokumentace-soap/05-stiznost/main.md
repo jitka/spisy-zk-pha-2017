@@ -26,6 +26,8 @@ dne 4. května 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném p�
 
 Žádal jsem rovněž o poskytnutí všech dalších dokumentů, které vznikly po 4. květnu 2017 vždy v okamžiku kdy budou k dispozici, a to plně v souladu s ust. § 4a odst. 2 písm. f) InfZ, tedy jako informací, které se v průběhu času mění, obnovují, doplňují nebo opakovaně vytváří.
 
+\newpage
+
 Konstatuji, že jsem v patnáctidenní zákonné lhůtě neobdržel od povinného subjektu žádnou odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle ust. § 16a odst. 6 písm. povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm.
