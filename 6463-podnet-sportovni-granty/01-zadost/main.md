@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-podávám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, podnět následujícího obsahu:
+podávám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, podnět následujícího obsahu:
 
 Navrhuji, aby byla realizována změna pravidel pro udělování sportovních grantů. A to takovým způsobem, aby se příjemcem sportovních grantů mohly stát pouze ty právnické osoby, které splňují následující podmínky:
 
