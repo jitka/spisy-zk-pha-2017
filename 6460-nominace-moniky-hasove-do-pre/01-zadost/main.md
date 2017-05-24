@@ -16,7 +16,7 @@ your:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
    note:
-      -     k rukám:
+      -     "k rukám:"
       -     Ing. Karla Grabeina Procházky
       -     člena RHMP
 style:      letter
