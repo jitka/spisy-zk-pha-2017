@@ -19,18 +19,18 @@ sendby:     mail
 style:      letter
 ---
 
-Vážení
+Vážení,
 
 podávám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, podnět následujícího obsahu:
 
 Navrhuji, aby byla realizována změna pravidel pro udělování sportovních grantů. A to takovým způsobem, aby se příjemcem sportovních grantů mohly stát pouze ty právnické osoby, které splňují následující podmínky:
 
-* Splňují status veřejněprospěšné společnosti podle § 146 zákona č. 89/2012, Občanského zákoníku.
-* Zveřejňují své smlouvy
-* Zveřejňují konečné vlastníky
-* Hospodaří výlučně přes transparentní bankovní účet, který zveřejňuje banka okamžitě na Internetu
-* Zveřejňují informace o uskutečněných výběrových řízeních na všechny dodavatele
-* Uplatňují účinné mechanismy pro kontrolu a dodržování pravidel
+* Splňují status veřejně prospěšné společnosti podle § 146 zákona č. 89/2012, Občanského zákoníku.
+* Zveřejňují své smlouvy.
+* Zveřejňují konečné vlastníky.
+* Hospodaří výlučně přes transparentní bankovní účet, který zveřejňuje banka okamžitě na Internetu.
+* Zveřejňují informace o uskutečněných výběrových řízeních na všechny dodavatele.
+* Uplatňují účinné mechanismy pro kontrolu a dodržování pravidel.
 * Zveřejňují dokumentaci o plnění smlouvy, uzavřené na základě veřejných grantů. 
 
 Žádám o zaslání písemné odpovědi datovou schránkou na adresu 4memzkm.
@@ -38,9 +38,10 @@ Navrhuji, aby byla realizována změna pravidel pro udělování sportovních gr
 Děkuji
 
 ---
-signature:
-  - Mikuláš Ferjenčík
-  - nar. 19. 3. 1987
+signature: 
+  - Mgr. et Mgr. Jakub Michálek
+  - nar. 6. 2. 1989
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
+abbr:       jakub
 ...
