@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    "Zk Pha #6463/2016"
+   sign:    "Zk Pha #6463"
 your:
    role:    
    name:    
@@ -32,6 +32,8 @@ Navrhuji, aby byla realizována změna pravidel pro udělování sportovních gr
 * Zveřejňují informace o uskutečněných výběrových řízeních na všechny dodavatele.
 * Uplatňují účinné mechanismy pro kontrolu a dodržování pravidel.
 * Zveřejňují dokumentaci o plnění smlouvy, uzavřené na základě veřejných grantů. 
+
+Žádám o projednání tohoto bodu Radou hlavního města Prahy, neboť tato problematika spadá do samostatné působnosti RHMP. Žádám, abych mohl být přítomen projednání tohoto bodu. 
 
 Žádám o zaslání písemné odpovědi datovou schránkou na adresu 4memzkm.
 
