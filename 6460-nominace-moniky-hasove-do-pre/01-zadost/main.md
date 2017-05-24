@@ -15,10 +15,14 @@ your:
    address:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
+   note:
+      -     k rukám:
+      -     Ing. Karla Grabeina Procházky
+      -     člena RHMP
 style:      letter
 ---
 
-Vážení,
+Vážený pane radní,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hlavního města Prahy – o poskytnutí informací souvisejících s usnesením RHMP č. číslo 1131 ze dne 23. května 2017 ohledně jmenování JUDr. Moniky Hášové do dozorčí rady společnosti Pražská energetika a.s. Konkrétněji se jedná o poskytnutí dokumentace k obsazení tohoto místa v souladu s přílohou č. 1 k usnesení RHMP č. 2911 ze dne 22. 11. 2016, a to zejména:
 
