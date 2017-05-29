@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-dne 12. května 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), požádal jako fyzická osoba o poskytnutí následujících dokumentů, které jsou uvedeny jako výstupy ve smlouvách České televize č. 1080296 a 1081905/234. Jednalo se o následující dokumenty:
+dne 12. května 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), požádal jako fyzická osoba o poskytnutí následujících dokumentů, které jsou uvedeny jako výstupy ve smlouvách České televize č. 1080296 a 1081905/234:
 
 * Analýza dosavadní vnější komunikace Zadavatele z hlediska kvality a kvantity
 * Analýza komunikačních strategií médií veřejné služby v Evropě
