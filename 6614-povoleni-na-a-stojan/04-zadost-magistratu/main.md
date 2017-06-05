@@ -1,5 +1,5 @@
 ---
-title:      Žádost o zábor veřejného prostranství v souladu s usnesením č. 815/2017 RHMP
+title:      Žádost o schválení záboru veřejného prostranství v souladu s výpůjčkou dle usnesení č. 815/2017 RHMP
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -11,12 +11,12 @@ our:
 your:
    role:    
    name:    
-      -     Městská část Praha 1
+      -     hlavní město Praha
    address:
-      -     Vodičkova 18, 627
+      -     Mariánské náměstí 2
       -     110 00, Praha 1
    note: 
-      -     k rukám:
+      -     "k rukám:"
       -     Luďka Buriana, MPA
       -     majetkového referenta
 sendby:     mail
