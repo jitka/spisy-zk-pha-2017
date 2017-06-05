@@ -25,7 +25,7 @@ Vážení,
 
 o poskytnutí výpůjčky veřejného prostranství v ulici Platnéřská podle přiložené mapy a vizualizace. V uvedeném prostoru bude umístěn novinový stojan, případně reklamní stojan „áčko“ s grafikou Pirátské strany a předvolebních Pirátských listů.
 
-Žádáme o možnost výpůjčky uvedeného prostoru pro dobu do konání voleb do Poslanecké sněmovny Parlamentu České republiky. 
+Žádám o možnost výpůjčky uvedeného prostoru pro dobu do konání voleb do Poslanecké sněmovny Parlamentu České republiky. 
 
 Žádám o zaslání písemné odpovědi datovou schránkou na adresu 4memzkm, případně na adresu jakub.michalek@pirati.cz
 
