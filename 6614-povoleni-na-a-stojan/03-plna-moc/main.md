@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-já Jakub Michálek tímto uděluji plnou moc panu Bc. Janu Loužkovi (bydlištěm Vondroušova 1196, Praha 17) pro potřeby podání žádosti/žádostí o výpůjčku veřejného prostranství pro Českou pirátskou stranu v souladu s usnesením RHMP č. 815/2017, k návrhu na výpůjčku veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy za účelem prezentace politických stran a kandidátů v rámci volebních kampaní roku 2017 a 2018. Tato plná moc se dále rovněž vztahuje na vedení jakékoliv komunikace s Městskou částí Praha 1 ve věcmi souvisejícími s podanou žádostí. 
+já Jakub Michálek tímto uděluji plnou moc panu Bc. Janu Loužkovi (asistentovi zastupitelského klubu Pirátů, bydlištěm Vondroušova 1198, Praha 17) pro potřeby podání žádosti/žádostí o výpůjčku veřejného prostranství pro Českou pirátskou stranu v souladu s usnesením RHMP č. 815/2017, k návrhu na výpůjčku veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy za účelem prezentace politických stran a kandidátů v rámci volebních kampaní roku 2017 a 2018. Tato plná moc se dále rovněž vztahuje na vedení jakékoliv komunikace s Městskou částí Praha 1 ve věcmi souvisejícími s podanou žádostí. 
 
 Děkuji
 
