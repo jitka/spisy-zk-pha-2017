@@ -27,11 +27,15 @@ dne 5. května 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném p�
 
 * Veškerou komunikaci, kterou má Odbor bytového fondu MHMP k dispozici (např. žádosti), které se týkají zvýšení nájmu soudců v bytech, které jim poskytuje hlavní město Praha. 
 
-Svoji žádost jsem adresoval řediteli Odboru bytového fondu MHMP Ing. Josefu Tunklovi. Dne 19. května 2017 jsem obdržel rozhodnutí povinného subjektu Č. j. MHMP 795009/2017, kterým bylo rozhodnuto o odmítnutí mé žádosti. Povinný subjekt uvedl, že požadované informace mi nemůže poskytnout, neboť je považuje za informace osobnostní povahy.
+Svoji žádost jsem adresoval řediteli Odboru bytového fondu MHMP Ing. Josefu Tunklovi. Dne 19. května 2017 jsem obdržel rozhodnutí povinného subjektu Č. j. MHMP 795009/2017, kterým povinný subjekt požadované informace částečně odmítl poskytnout. Uvedl, že část těchto informací považuje za osobní a citlivé údaje. 
 
-S odůvodněním povinného subjektu se nemohu ztotožnit. Žádost jsem totiž podal nejen pouze v souladu s InfZ, ale také i v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze jako zastupitel hl. města Prahy.  Podle stanoviska odboru dozoru a kontroly veřejné správy Ministerstva vnitra č. 7/2011 má zastupitel nárok na veškeré informace vypovídající o výkonu samostatné působnosti obce a dále informace vypovídající o výkonu přenesené působnosti svěřené zastupitelstvu obce. Povinný subjekt mi proto měl požadované informace poskytnout, i když obsahují informace, které by byly jinak předmětem výluky v souladu s § 8a InfZ. 
+S odůvodněním povinného subjektu se nemohu ztotožnit. Žádost jsem totiž podal nejen pouze v souladu s InfZ, ale také i v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze jako zastupitel hl. města Prahy. Podle stanoviska odboru dozoru a kontroly veřejné správy Ministerstva vnitra č. 7/2011 má zastupitel nárok na veškeré informace vypovídající o výkonu samostatné působnosti obce a dále informace vypovídající o výkonu přenesené působnosti svěřené zastupitelstvu obce. 
 
-V souvislosti s výše uvedeným se domnívám, že povinný subjekt postupoval v rozporu se zákonem a podávám proto proti jeho rozhodnutí stížnost v souladu s ust. 16a odst. 1 písm. b) InfZ.
+Povinný subjekt mi proto měl požadované informace poskytnout v úplné podobě, i když obsahují informace, které by byly jinak předmětem výluky v souladu s § 8a InfZ. 
+
+\newpage
+
+V souvislosti s výše uvedeným konstatuji, že mi povinný subjekt poskytl požadované informace pouze částečně. Podávám proto proti jeho rozhodnutí stížnost v souladu s ust. 16a odst. 1 písm. c) InfZ.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm.
 
