@@ -1,5 +1,5 @@
 ---
-title:      Plná moc
+title:      Plná moc k jednání jménem České pirátské strany ve věcech výpůjčky veřejného prostranství a sloupů veřejného osvětlení na území hl. m. Prahy
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -11,17 +11,19 @@ our:
 your:
    role:    
    name:    
-      -     Městská část Praha 1
+      -     na vědomí
    address:
-      -     Vodičkova 18, 627
-      -     110 00, Praha 1
+      -     Magistrát hl. m. Prahy
+      -     Městské části hl. m. Prahy
 sendby:     mail
 style:      letter
 ---
 
 Vážení,
 
-já Jakub Michálek tímto uděluji plnou moc panu Bc. Janu Loužkovi (asistentovi zastupitelského klubu Pirátů, bydlištěm Vondroušova 1198, Praha 17) pro potřeby podání žádosti/žádostí o výpůjčku veřejného prostranství pro Českou pirátskou stranu v souladu s usnesením RHMP č. 815/2017, k návrhu na výpůjčku veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy za účelem prezentace politických stran a kandidátů v rámci volebních kampaní roku 2017 a 2018. Tato plná moc se dále rovněž vztahuje na vedení jakékoliv komunikace s Městskou částí Praha 1 ve věcmi souvisejícími s podanou žádostí. 
+Česká pirátská strana, jejímž jménem jedná Mgr. et Mgr. Jakub Michálek, pověřený místopředseda, tímto uděluje plnou moc panu Bc. Janu Loužkovi (asistentovi zastupitelského klubu Pirátů, bydlištěm Vondroušova 1198, Praha 17) pro potřeby výpůjčky veřejného prostranství pro Českou pirátskou stranu a sloupů veřejného osvětlení na území hl. m. Prahy, za účelem prezentace politických stran a kandidátů v rámci volebních kampaní roku 2017 a 2018 podle usnesení Rady hl. m. Prahy č. 815 ze dne 2017. 
+
+Tato plná moc se vztahuje na vedení jakékoliv komunikace s Magistrátem hl. m. Prahy a městskými částmi hl. m. Prahy v majetkových i správních záležitostech souvisejícími s podanou žádostí, zejména žádání o vyjádření, potvrzení, výpůjčku, zábory apod. 
 
 Děkuji
 
