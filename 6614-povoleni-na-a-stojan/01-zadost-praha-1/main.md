@@ -21,11 +21,9 @@ style:      letter
 
 Vážení,
 
-žádám tímto v souladu s usnesením RHMP č. 815/2017, k návrhu na výpůjčku veřejných prostranství a sloupů veřejného osvětlení na území hl.m. Prahy za účelem prezentace politických stran a kandidátů v rámci volebních kampaní roku 2017 a 2018,
+žádám tímto v souladu s usnesením RHMP č. 815/2017 o poskytnutí výpůjčky veřejného prostranství v ulici Platnéřská podle přiložené mapy a vizualizace. V uvedeném prostoru bude umístěn reklamní stojan „áčko“ s grafikou Pirátské strany a předvolebních Pirátských listů, případně novinový stojan s novinami Pirátské listy.
 
-o poskytnutí výpůjčky veřejného prostranství v ulici Platnéřská podle přiložené mapy a vizualizace. V uvedeném prostoru bude umístěn novinový stojan, případně reklamní stojan „áčko“ s grafikou Pirátské strany a předvolebních Pirátských listů.
-
-Žádám o možnost výpůjčky uvedeného prostoru pro dobu do konání voleb do Poslanecké sněmovny Parlamentu České republiky. 
+Žádám o možnost výpůjčky uvedeného prostoru od 21. června 2017 pro dobu do dne konání voleb do Poslanecké sněmovny Parlamentu České republiky. 
 
 Žádám o zaslání písemné odpovědi datovou schránkou na adresu 4memzkm, případně na adresu jakub.michalek@pirati.cz
 
