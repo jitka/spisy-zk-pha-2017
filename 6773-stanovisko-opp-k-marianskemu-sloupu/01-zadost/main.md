@@ -21,7 +21,7 @@ your:
 style:      letter
 ---
 
-Vážení,
+Vážený pane řediteli,
 
 v souladu se zákonem č. 106/1999 Sb., žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
