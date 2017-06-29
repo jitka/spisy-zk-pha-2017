@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#68
+   sign:    ZK Pha \#6816
 your:
    role:    Povinný subjekt
    name:    
