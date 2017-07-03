@@ -27,6 +27,8 @@ Dne 27. června 2017 jsem po doplnění své žádosti obdržel od povinného su
 
 Se závěrem povinného subjektu jsem nucen nesouhlasit. Dle stanoviska Odboru dozoru a kontroly veřejné správy Ministerstva vnitra č. 1/2016 ze dne 13. dubna 2016 má totiž zastupitel, který žádá město o informace, právo na **veškeré informace vypovídající o výkonu samostatné působnosti obce** a dále informace vypovídající o výkonu přenesené působnosti sveřejné zastupitelstvu obce (závěr č. 2). Společnost Technická správa komunikací a.s. má jako jediného akcionáře hlavní město Prahu a byla založena nepochybně s účelem naplňování cílů hlavního města Prahy. Přebírá od něho úkony, které by hlavní město Praha vykonávalo v samostatné působnosti. V souvislosti s tím je nezbytné hledět na společnost Technická správa komunikací a.s. jako na povinný subjekt. Proto měla společnost v souvislosti s mojí žádostí požadovanou informaci poskytnout.
 
+\newpage
+
 Vzhledem k tomu, že povinný subjekt odmítl požadovanou informaci poskytnout z důvodu, který je nezákonný, podávám podle § 16 InfZ odvolání. Požaduji, aby nadřízený správní orgán věc převzal a informace mi poskytl sám, případně rozhodnutí zrušil a nařídil povinnému subjektu, aby mi informace poskytl do 15 dnů. Připomínám, že nadřízeným správním orgánem je představenstvo společnosti.
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz nebo do datové schránky xwfwgha. Předem děkuji za Vaši vstřícnost. 
