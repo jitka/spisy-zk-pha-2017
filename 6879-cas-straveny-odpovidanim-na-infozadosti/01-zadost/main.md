@@ -47,4 +47,6 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
 abbr:       jakub
+attachments:
+  - tabulka 06-1999_Piráti_náklady.xlsx
 ...
