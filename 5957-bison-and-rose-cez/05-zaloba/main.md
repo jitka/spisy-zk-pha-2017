@@ -57,5 +57,5 @@ Z výše uvedených důvodů žalobce navrhuje, aby soud vydal následující ro
 ---
 signature:
   - Jakub Michálek
-abbr:       adam
+abbr:       jakub
 ...
