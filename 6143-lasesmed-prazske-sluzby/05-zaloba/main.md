@@ -30,7 +30,7 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 2. Žádost o informace ze dne 25. dubna 2017
 3. Stížnost na vyřizování žádosti o informace ze dne 15. května 2017
 4. Dopis povinného subjektu ze dne 22. května 2017
-5. Odvolání žadatele ze dne 26. května 2017
+5. Odvolání žalobce ze dne 26. května 2017
 6. Dopis povinného subjektu ze dne 28. června 2017
 
 ### Předmět řízení a dosavadní průběh řízení
