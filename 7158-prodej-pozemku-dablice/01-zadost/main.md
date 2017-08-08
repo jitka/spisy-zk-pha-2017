@@ -3,7 +3,7 @@ title:      Žádost o informace
 author:
    name:    Mikuláš Ferjenčík
    phone:   +420 737 943 770
-   ds:      
+   ds:      i9avjnt
    mail:    mikulas.ferjencik@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
@@ -29,7 +29,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a 
 
 * Pokud ano, zda-li Hlavní město Praha zpracovává uvedenou žádost v podobě tisků na zasedání RHMP, resp. ZHMP a pokud ano, jaké mají uvedené tisky číslo. 
 
-Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz nebo do datové schránky xwfwgha. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu mikulas.ferjencik@pirati.cz nebo do datové schránky i9avjnt. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
