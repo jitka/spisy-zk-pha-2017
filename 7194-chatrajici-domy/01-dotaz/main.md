@@ -30,6 +30,6 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - zastupitel hl. m. Prahy
+  - předseda zast. klubu Pirátů v ZHMP
 abbr:       jakub
 ...
