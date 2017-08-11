@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svob2ya36ee odném přístupu k informacím a § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
 1. Zda-li v roce 2010 pracoval v Zdravotnické záchranné službě hl. m. Prahy lékař MUDr. Staněk, zmíněný v dokumentu Obvodního ředitelství policie Praha IV č. j. ORIV-9107-4/ČJ-2010-001410 (část anonymizovaného dokumentu je přiložena).
 2. Pokud ano, jak dlouho u nemonice pracoval, kolika výjezdů ZZS HMP se za uvedený rok účastnil a jaká je jeho odborná specializace. Pracovalo-li u ZZS HMP více lékařů tohoto jména, uveďte tyto údaje pro všechny z nich.
