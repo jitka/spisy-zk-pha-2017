@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#6879
+   sign:    ZK Pha \#6806
 your:
    role:    Povinný subjekt
    name:    
@@ -22,10 +22,8 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
-1. Zda-li v roce 2010 pracoval v Zdravotnické záchranné službě hl. m. Prahy lékař MUDr. Staněk, zmíněný v dokumentu Obvodního ředitelství policie Praha IV č. j. ORIV-9107-4/ČJ-2010-001410
+1. Zda-li v roce 2010 pracoval v Zdravotnické záchranné službě hl. m. Prahy lékař MUDr. Staněk, zmíněný v dokumentu Obvodního ředitelství policie Praha IV č. j. ORIV-9107-4/ČJ-2010-001410 (část anonymizovaného dokumentu je přiložena).
 2. Pokud ano, jak dlouho u nemonice pracoval, kolika výjezdů ZZS HMP se za uvedený rok účastnil a jaká je jeho odborná specializace. Pracovalo-li u ZZS HMP více lékařů tohoto jména, uveďte tyto údaje pro všechny z nich.
-2. Zda-li byla Marie Rechtbergerová (nar. 23. 9. 1931) převezena během/po hospitalizaci ve Fakultní Thomayerově nemocnici do léčebny v Měšicích.
-3. Jaké léky byly paní Marii Rechtbergerové (nar. 29. 3. 1931) podány během převozu do Fakultní Thomayerovy nemocnice personálem ZZS HMP během výjezdu dne 22. dubna 2010 a jak personál ZZS HMP diagnostikoval stav pacientky Rechtgergerové? 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm.
 
@@ -38,4 +36,5 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
 abbr:       jakub
+attachments: Vyrozumění Policie České republiky ze dne 24. srpna 2010 (část, částečně anonymizováno)
 ...
