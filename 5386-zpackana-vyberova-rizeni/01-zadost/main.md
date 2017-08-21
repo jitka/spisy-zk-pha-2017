@@ -1,10 +1,10 @@
 ---
 title:      Dotaz podle zákona č. 131/2000 Sb.
 author:
-   name:    Jakub Michálek
-   phone:   +420 775 978 550
+   name:    Ondřej Profant
+   phone:   +420 607 580 015
    ds:      4memzkm
-   mail:    jakub.michalek@praha.eu
+   mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#5386
@@ -32,9 +32,9 @@ S pozdravem
 
 ---
 signature: 
-  - Mgr. et Mgr. Jakub Michálek
-  - nar. 6. 2. 1989
-  - bytem Bořivojova 108, Praha 3
+  - Ondřej Profant
+  - nar. 2. 5. 1988
+  - bytem Šternberkova 16, Praha 7
   - zastupitel hl. m. Prahy
-abbr:       jakub
+abbr:       ondra
 ...
