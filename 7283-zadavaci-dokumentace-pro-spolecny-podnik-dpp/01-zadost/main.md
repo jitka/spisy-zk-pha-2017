@@ -21,7 +21,7 @@ style:      letter
 
 Vážení, 
 
-jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás zdvořile žádám v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí:
+jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás zdvořile žádám v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, o poskytnutí:
 
 * Zadávací dokumentace (především **všech smluv** a **podkladových analýz**) týkající se společného podniku Dopravního podniku hl. m. Prahy a.s. a soukromého partnera v rámci Joint Venture, založeného za účelem maximalizace zhodnocení potenciálu území v blízkosti stavby metra I.D v Praze. 
 
