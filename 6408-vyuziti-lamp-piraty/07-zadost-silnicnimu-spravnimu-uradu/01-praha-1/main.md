@@ -3,7 +3,7 @@ title:      Žádost o udělení souhlasu k umístění volebních plakátů
 author:
    name:    Jakub Michálek
    phone:   +420 608 213 119
-   ds:      4memzkm
+   ds:      b2i4r6j
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
