@@ -14,8 +14,8 @@ your:
       -     Městská část Praha 4
       -     Oddělení dopravy
    address:
-      -     Seifertova 51
-      -     130 00 Praha 3
+      -     Antala Staška 2059/80b
+      -     140 46 Praha 4
    note:
       -     k rukám
       -     Bc. Petra Vlasáka,
