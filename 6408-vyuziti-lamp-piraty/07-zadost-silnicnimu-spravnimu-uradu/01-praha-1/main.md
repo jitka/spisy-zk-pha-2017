@@ -45,8 +45,8 @@ signature:
   - místopředseda České pirátské strany
 abbr:       jakub
 attachments:
-  - Příloha 1: Seznam stožárů veřejného osvětlení spadajících do působnosti silničního správního úřadu
-  - Příloha 2: Smlouva mezi hl. m. Prahou a Českou pirátskou stranou o pronájmu sloupů veřejného osvětlení
-  - Příloha 3: Pověření místopředsedy k jednání jménem strany
-  - Příloha 4: Výpis z rejstříku politických stran a hnutí
+  - "Příloha 1: Seznam stožárů veřejného osvětlení spadajících do působnosti silničního správního úřadu"
+  - "Příloha 2: Smlouva mezi hl. m. Prahou a Českou pirátskou stranou o pronájmu sloupů veřejného osvětlení"
+  - "Příloha 3: Pověření místopředsedy k jednání jménem strany"
+  - "Příloha 4: Výpis z rejstříku politických stran a hnutí"
 ...
