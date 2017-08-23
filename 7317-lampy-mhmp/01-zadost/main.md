@@ -15,7 +15,7 @@ your:
       -     Odbor dopravních agend
    address:
       -     Jungmannova 35
-      -     11 000 Praha 1, Nové Město
+      -     110 00 Praha 1
    note:
       -     k rukám
       -     Ing. Jana Heroudka
@@ -25,7 +25,7 @@ style:      letter
 reminder:   true
 ---
 
-Vážený pane Heroudku,,
+Vážený pane Heroudku,
 
 jménem České pirátské strany tímto uctivě žádáme příslušný silniční správní úřad o veřejnoprávní **souhlas s umístěním volebních plakátů České pirátské strany na sloupy veřejného osvětlení** uvedené v přílohách č. 1. Plakáty budou umístěny od 1. září do 21. října 2017, tedy po dobu konání volební kampaně pro volby do Poslanecké sněmovny Parlamentu České republiky. 
 
