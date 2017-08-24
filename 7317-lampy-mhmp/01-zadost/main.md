@@ -27,7 +27,7 @@ reminder:   true
 
 Vážený pane Heroudku,
 
-jménem České pirátské strany tímto uctivě žádáme příslušný silniční správní úřad o veřejnoprávní **souhlas s umístěním volebních plakátů České pirátské strany na sloupy veřejného osvětlení** uvedené v přílohách č. 1. Plakáty budou umístěny od 1. září do 21. října 2017, tedy po dobu konání volební kampaně pro volby do Poslanecké sněmovny Parlamentu České republiky. 
+jménem České pirátské strany tímto uctivě žádáme příslušný silniční správní úřad o veřejnoprávní **souhlas s umístěním volebních plakátů České pirátské strany na sloupy veřejného osvětlení** uvedené v příloze č. 1. Plakáty budou umístěny od 1. září do 21. října 2017, tedy po dobu konání volební kampaně pro volby do Poslanecké sněmovny Parlamentu České republiky. 
 
 Česká pirátská strana má pronajaty sloupy veřejného osvětlení od hlavního města Prahy, které má ve správě Magistrát hl. m. Prahy (text nájemní smlouvy je v příloze č. 2). 
 
@@ -51,7 +51,7 @@ signature:
   - místopředseda České pirátské strany
 abbr:       jakub
 attachments:
-  - "Příloha 1: (tabulky P1.xlsx až P22.xlsx) Seznam stožárů veřejného osvětlení spadajících do působnosti silničního správního úřadu"
+  - "Příloha 1: Seznam stožárů veřejného osvětlení spadajících do působnosti silničního správního úřadu"
   - "Příloha 2: Smlouva mezi hl. m. Prahou a Českou pirátskou stranou o pronájmu sloupů veřejného osvětlení"
   - "Příloha 3: Pověření místopředsedy k jednání jménem strany"
   - "Příloha 4: Výpis z rejstříku politických stran a hnutí"
