@@ -29,6 +29,8 @@ Kniha, Kat.,N, Částka, Měna, DPH, Název subjektu, Adresa subjektu, IČO, Akt
 
 Postup, jakým lze tento seznam vytvořit, lze realizovat za pomocí [tohoto návodu](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/navod/navod-druhy.md).
 
+\newpage
+
 Požadované informace žádám pro výkon funkce zastupitele a člena kontrolního výboru ZHMP v souladu se Stanoviskem odboru veřejné správy, dozoru a kontroly Ministerstva vnitra č. 1/2016 ze dne 13. dubna 2016. Žádám pouze o zaslání exportovaných dat, nikoliv o získání přístupů do živé databáze. Žádám o poskytnutí informací o samostatné působnosti obce. 
 
 Prosím o poskytnutí informace v elektronické podobě ve formátu XLSX e-mailem. Pokud jsou požadovaná data v požadované podobě veřejně k dispozici tak, jak se usnesla Rada hlavního města Prahy dne 15. února 2017, v takovém případě žádám o odkázání na zveřejněnou informaci v souladu s § 6 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. 
