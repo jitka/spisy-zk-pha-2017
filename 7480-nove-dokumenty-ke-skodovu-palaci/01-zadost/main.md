@@ -23,7 +23,7 @@ Vážení,
 
 v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – o poskytnutí následujících informací:
 
-* Všechny písemnosti, které má hlavní město Praha k dispozici a které vznikly v souvislosti s kauzou Škodova paláce a při průzkumu možného vymáhání škody po Pavlu Bémovi nebo dalších osobách ve stejné kauzy. Žádám o poskytnutí pouze těch dokumentů, které vznikly  nebo je úřad získal po 1. červnu 2017.
+* Všechny písemnosti, které má hlavní město Praha k dispozici a které vznikly v souvislosti s kauzou Škodova paláce a při zjištění možného vymáhání škody po Pavlu Bémovi nebo dalších osobách ve stejné kauze. Žádám o poskytnutí pouze těch dokumentů, které vznikly  nebo je úřad získal po 1. červnu 2017.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm.
 
