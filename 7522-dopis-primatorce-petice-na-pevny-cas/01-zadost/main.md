@@ -20,7 +20,7 @@ your:
       -     Adriany Krnáčové,
       -     primátorky hl. m. Prahy
       -     v kopii
-      -     členové Rady hlavního města Prahy
+      -     členům Rady hlavního města Prahy
 sendby:     ds
 style:      letter
 ---
