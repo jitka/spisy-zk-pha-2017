@@ -11,7 +11,7 @@ our:
 your:
    role:    
    name:    
-      -     Hlavní město Praha
+      -     Rada hlavního města Prahy
    address:
       -     Mariánské nám. 2
       -     110 00, Praha 1
@@ -19,6 +19,8 @@ your:
       -     k rukám
       -     Adriany Krnáčové,
       -     primátorky hl. m. Prahy
+      -     v kopii
+      -     členové Rady hlavního města Prahy
 sendby:     ds
 style:      letter
 ---
@@ -29,9 +31,7 @@ nadcházející 29. zasedání ZHMP má dle dokumentu, který odsouhlasila Rada 
 
 Vzhledem k tomu, že jsou petice zařazeny až na závěr programu jednání a vzhledem k tomu, že program jednání je značně dlouhý (vč. možných změn ve výborech ZHMP má 100 bodů) hrozí, že se **projednání petic uskuteční v pozdních večerních či nočních hodinách**. Občané, kteří jsou na těchto peticích zainteresováni, by tak museli úřad navštívit okolo půlnoci nebo v jednu hodinu ráno, což je pro ně demotivující a vytváří pocit, že vedení Prahy chce význam těchto petic marginalizovat.
 
-V souvislosti s tím se proto domnívám, že by bylo více než vhodné **zařadit projednávání všech petic**, které jsou na program 29. zasedání ZHMP navrženy, **na pevný čas, nejlépe v 17:00**. Občané Prahy by se tak jejich projednání mohli zúčastnit. 
-
-Žádám Vás tímto o odpovídající změnu programu nadcházejícího zasedání ZHMP. 
+Navrhuji tímto Radě hlavního města Prahy, aby zařadila projednání všech petic, které jsou na program 29. zasedání ZHMP navrženy, **na pevný čas, nejlépe v 17:00**. Občané Prahy by se tak jejich projednání mohli zúčastnit. Žádám Vás, aby Rada hlavního města Prahy projednala tento podnět v souladu s § 68 odst. 2 písm. d) zákona č. 131/2000 Sb., o hlavním městě Praze, ve své vyhrazené působnosti na svém jednání 12. září 2017, a zařadila projednání na pevný čas do návrhu programu jednání ZHMP. 
 
 S pozdravem
 
