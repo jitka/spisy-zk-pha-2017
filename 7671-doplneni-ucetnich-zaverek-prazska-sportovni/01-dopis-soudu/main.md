@@ -19,7 +19,7 @@ style:      letter
 
 Vážení, 
 
-chtěl bych tímto dopisem upozornit, že v případě společnosti Česká Sportovní a.s. (IČ: 25748521) dochází k pochybení v oblasti povinnosti dle ust. § 66 písm. c) zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob (dále jen „RegZ“). 
+chtěl bych tímto dopisem upozornit, že v případě společnosti Česká sportovní a.s. (IČ: 25748521) dochází k pochybení v oblasti povinnosti dle ust. § 66 písm. c) zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob (dále jen „RegZ“). 
 
 Tato společnost porušila povinnost založit listiny do veřejného rejstříku podle § 21a odst. 1, 4 zákona č. 563/1991 Sb., o účetnictví; navrhuji, aby rejstříkový soud postupoval podle § 104, ev. § 105 a 106 zákona č. 304/2013 Sb., o veřejných rejstřících.
 
