@@ -37,7 +37,7 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - místopředseda České pirátské strany
+  - člen ZHMP za klub České pirátské strany
   - narozen 9. února 1989 v Lounech
   - bytem Bořivojova 108, Praha 3
 abbr:       jakub
