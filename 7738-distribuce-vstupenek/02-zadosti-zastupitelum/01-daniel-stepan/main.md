@@ -18,7 +18,7 @@ your:
    ds:      
    note:
       -     k rukám Mgr. Daniela Štěpána,
-      -     přesedy finančního výboru ZHMP
+      -     předsedy finančního výboru ZHMP
 style:      letter
 reminder:   true
 ---
