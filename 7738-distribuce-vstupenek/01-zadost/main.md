@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace – Distribuce vstupenek na sportovní akce.
+title:      Žádost o informace – distribuce vstupenek na sportovní akce.
 author:
    name:    Jakub Michálek
    phone:   +420 608 213 119
@@ -23,11 +23,11 @@ style:      letter
 reminder:   true
 ---
 
-Vážený paní ředitelko,
+Vážená paní ředitelko,
 
 žádám tímto jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
 
-* Seznam zastupitelů, kteří obdrželi vstupenky na sportovní akci Laver Cup. Vstupenky mělo Hlavní město Praha obdržet na základě dotační smlouvy, která byla uzavřena na základě usnesení RHMP č. 2348 ze dne 19. září 2017. Žádám o jmenovitý seznam osob, kterým byla nabídnuta vstupenka/které vstupenku obdrželi.
+* Seznam zastupitelů, kteří obdrželi vstupenky na sportovní akci Laver Cup. Vstupenky mělo Hlavní město Praha obdržet na základě dotační smlouvy, která byla uzavřena na základě usnesení RHMP č. 2348 ze dne 19. září 2017. Žádám o jmenovitý seznam osob, kterým byla nabídnuta vstupenka/kteří vstupenku obdrželi.
 
 * Na základě čeho (jakého dokumentu nebo rozhodnutí jaké konkrétní osoby) bylo rozhodnuto o tom, že budou vstupenky přiděleny lidem z výše uvedeného seznamu? Sdělte konkrétně, o jaký dokument nebo jakou osobu se jednalo. 
 
