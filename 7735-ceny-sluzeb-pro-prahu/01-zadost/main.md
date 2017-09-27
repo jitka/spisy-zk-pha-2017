@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace – dokumenty týkající se soudkyně Heleny Králové
+title:      Žádost o informace – náklady města na provoz infrastruktury
 author:
    name:    Jakub Michálek
    phone:   +420 608 213 119
@@ -15,7 +15,7 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
-   ds:      https://www.google.cz/?gfe_rd=cr&ei=ebawVqH_MseI8QfrtKLIDQ
+   ds:      
 style:      letter
 reminder:   true
 ---
