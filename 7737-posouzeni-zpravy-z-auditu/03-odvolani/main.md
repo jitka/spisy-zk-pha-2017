@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-dne 27. 9. 2017 jsem jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“) a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí následujících informací dokumentu s názvem Posouzení zprávy z auditu Pražských hřbitovů, kterým disponuje Odbor kontrolních činností (OKC).
+dne 27. 9. 2017 jsem jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“) a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí dokumentu s názvem Posouzení zprávy z auditu Pražských hřbitovů, kterým disponuje Odbor kontrolních činností (OKC).
 
 dne 13. října 2017 jsem obdržel od povinného subjektu rozhodnutí č.  j. MHMP 1604066/2017, sp. zn. S-MHMP 1519263/2017, ve kterém uvádí, že mi požadované informace neposkytne z toho důvodu, že se jedná o tzv. novou informaci, kde ve smyslu ust. § 11 odst. 1 písm. b) InfZ může povinný subjekt informaci neposkytnout. 
 
