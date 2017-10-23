@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-žádám tímto jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
+dne 27. září 2017 jsem požádal jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
 
 * Kolik zaplatilo hlavní město Praha v letech 1990, 1995, 2000, 2005, 2010 a 2015 za následující služby: osvětlení veřejných prostranství (ulic, náměstí apod), svoz odpadu (na území celého města), náklady za provoz vodáren a údržby vodovodní sítě, údržbu silnic a dalších pozemních komunikací, správu zeleně, parků a lesů, kongresové a reprezentační aktivity a v poslední řadě prostředky poskytnuté na daný rok dopravnímu podniku. 
 
@@ -30,7 +30,7 @@ Vážení,
 
 Požadovanou informaci jsem žádal jako tabulku, kde bude každý sloupec jednotlivý rok a každý řádek jednotlivý výdaj (např. "roční výdaje Prahy za osvětlení"). V jednotlivých buňkách měly být poté údaje za uvedený rok a konkrétní výdaj. 
 
-Povinný subjekt si následně v souladu s ust. § 14 odst. 7 InfZ vyžádal prodloužení lhůty o poskytnutí informací o deset dní. Poté svým přípisem č. j. MHMP 1628926/2017 požádal v souladu s ust. § 17 odst. 1 InfZ o úhradu 10 000 Kč za 40 odvedených hodin práce při mimořádně rozsáhlém vyhledávání informací. 
+Povinný subjekt si následně v souladu s ust. § 14 odst. 7 InfZ vyžádal prodloužení lhůty o poskytnutí informací o deset dní. Poté svým přípisem č. j. MHMP 1628926/2017 požádal v souladu s ust. § 17 odst. 1 InfZ o úhradu ve výši 10 000 Kč za 40 odvedených hodin práce při mimořádně rozsáhlém vyhledávání informací. 
 
 Se závěrem povinného subjektu se v tomto případě nicméně nemohu ztotožnit. Informace jsem požadoval totiž nikoliv pouze v režimu dle InfZ, nýbrž i v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze. Zmíněné ustanovení zákona lze použít pouze pro členy zastupitelstva hlavního města Prahy. Dle stanoviska odboru veřejné správy, dozoru a kontroly Ministerstva vnitra č. 1/2016 v tomto případě nicméně nemůže hlavní město Praha vyžadovat po žadateli úhradu, neboť „zastupitel má nárok na bezplatné poskytnutí informací, které souvisejí s výkonem jeho funkce. Výjimečně lze po zastupiteli požadovat úhradu „materiálových“ nákladů za poskytnutí informace (typicky za vyhotovení kopií), pokud by byly náklady na jejich poskytnutí pro obec nepřiměřeně zatěžující a současně pokud člen zastupitelstva obce nevyužije jiné obcí nabízené formy umožňující bezplatné získání informací (např. nahlédnutí do dokumentů). Po zastupiteli **není možné požadovat úhradu za dobu práce zaměstnance obce, spojenou s vyhledáváním informací pro zastupitele a s jejich zpracováním**.
 
