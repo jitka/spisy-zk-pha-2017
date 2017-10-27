@@ -1,5 +1,5 @@
 ---
-title:      Rezignace na funkci člena školské rady VOŠIŠ
+title:      Rezignace na funkci člena školské rady VOŠIS
 author:
    name:    Jakub Michálek
    phone:   +420 608 213 119
