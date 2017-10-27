@@ -29,5 +29,6 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
+  - předseda posl. klubu Pirátů v PS PČR
 abbr:       jakub
 ...
