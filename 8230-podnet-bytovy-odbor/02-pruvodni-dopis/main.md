@@ -32,7 +32,7 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - člen ZHMP za klub České pirátské strany
+  - pražský zastupitel a poslanec klub České pirátské strany
 abbr:       jakub
 attachments:
   - podnět Ing. Miloše Bezvody 
