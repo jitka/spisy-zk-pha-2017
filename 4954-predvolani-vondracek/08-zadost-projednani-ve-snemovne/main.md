@@ -23,7 +23,7 @@ style:      letter
 
 Vážení,
 
-v souvislosti s usnesením č. j. UMCP1 176886/2017 ze dne 26. října 2017 žádám, aby bylo projednání uvedeného přestupku uskutečněno dle § 4 odst. 4 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, v rámci disciplinárního řízení podle zvláštních předpisů a případně postoupeno mandátovému a imunitnímu výboru Poslanecké sněmovny Parlamentu České republiky.
+v souvislosti s usnesením č. j. UMCP1 176886/2017 ze dne 26. října 2017 žádám, aby bylo projednání uvedeného přestupku uskutečněno dle § 4 odst. 4 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, v rámci disciplinárního řízení podle zvláštních předpisů a postoupeno mandátovému a imunitnímu výboru Poslanecké sněmovny Parlamentu České republiky.
 
 S úctou
 
