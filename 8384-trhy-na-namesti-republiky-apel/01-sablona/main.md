@@ -1,5 +1,5 @@
 ---
-title:      Farmářské trhy na Náměstí Republiky – Proč Praha 1 tratí na pronájmu? 
+title:      Farmářské trhy na náměstí Republiky – Proč Praha 1 tratí na pronájmu? 
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
