@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám o poskytnutí následujících informací: 
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako zastupitel hl. m. Prahy poskytnutí následujících informací: 
 
 Forenzní audit od společnosti Ernst & Young, který si nechal vyhotovit Dopravni podnik hl. m. Prahy, a který analyzuje období let 2012–2016 ve společnosti Pražská strojírna a.s.
 
