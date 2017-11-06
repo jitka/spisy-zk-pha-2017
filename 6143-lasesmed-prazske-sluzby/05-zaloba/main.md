@@ -45,9 +45,19 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 
 1. Žalobce má za to, že postup žalované nebyl v souladu se zákonem. Je přesvědčen, že § 51 odst. 3 písm. c) zákona o HMP, ačkoliv jeho doslovné znění umožňuje požadovat informace pouze od „zaměstnanců právnických osob, které hlavní město Praha založilo nebo zřídilo“, je třeba aplikovat v souladu s jeho účelem a že se musí vztahovat na všechny společnosti, které hl. m. Praha ovládá a mezi něž patří i žalovaná. 
 
-Za druhé i kdyby se na žalovanou nevztahoval § 51 odst. 3 písm. c) zákona o HMP, pak se na ni vztahuje povinnost poskytovat informace dle InfZ. Žalovanou je nezbytné považovat za veřejnou instituci dle § 2 odst. 1 InfZ a tím pádem i za povinný subjekt dle stejného zákona. Dle rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47 „Povaha žalované [jakožto obchodní společnosti ovládané obcí] s sebou nese povinnost poskytovat informace v režimu informačního zákona, ať již je žádost o informace podána podle informačního zákona nebo jiného právního předpisu, který proces poskytování informací samostatně neupravuje (srov. však § 2 odst. 3 informačního zákona).“ Žalovaná tedy po té, co usoudila, že se na ni nevztahuje § 51 odst. 3 písm. c) zákona o HMP (byť s tím žalobce nesouhlasí), měla postupovat dle InfZ a žalobci informaci stejně poskytnout.
+Za druhé i kdyby se na žalovanou nevztahoval § 51 odst. 3 písm. c) zákona o HMP, pak se na ni vztahuje povinnost poskytovat informace dle InfZ. Žalovanou je nezbytné považovat za veřejnou instituci dle § 2 odst. 1 InfZ a tím pádem i za povinný subjekt dle stejného zákona. To lze dovodit mimo jiné i z testu aplikovaného Ústavním soudem, podle kterého zařazení určitého subjektu pod instituci veřejnou či soukromou musí vyplývat
+z „převahy“ znaků, jež jsou pro instituci veřejnou či soukromou typické:
+a) způsob vzniku či zániku instituce (z pohledu přítomnosti či nepřítomnosti soukromoprávního úkonu) - žalovaná byla založena Fondem národního majetku České republiky, jak vyplývá z obchodního rejstříku;
+b) hledisko osoby zřizovatele (z pohledu toho, zda je zřizovatelem instituce jako takové stát, či nikoliv; pokud ano, jedná se o znak vlastní veřejné instituce) - zřizovatelem byl státní fond České republiky (Fond národního majetku ČR);
+c) subjekt vytvářející jednotlivé orgány instituce (z toho pohledu, zda dochází ke kreaci orgánů státem, či nikoliv; jestliže ano, jde o charakteristický rys pro veřejnou instituci) - převažující většinu členu dozorčí rady žalované obsazuje hlavní město Praha jakožto většinový akcionář, který drží 76,9 % akcií (viz výroční zpráva za rok 2015), viz http://www.metro.cz/nove-vedeni-prahy-obmenilo-dozorci-radu-prazskych-sluzeb-pmb-/praha.aspx?c=A150128_162021_co-se-deje_rab;
+d) existence či neexistence státního dohledu nad činností instituce (existence státního dohledu je typická pro veřejnou instituci) - hlavní město Praha vykonává dohled z pozice většinového akcionáře skrze členy orgánů;
+e) veřejný nebo soukromý účel instituce (veřejný účel je typickým znakem veřejné instituce) - účelem žalované je zajišťovat sběr odpadů v Praze a energeticky odpady využívat ve spalovně Malešice, což jsou veřejně prospěšné účely.
 
-Protože žalovaná žalobci informace neposkytla, ačkoliv měla, postupoval žalobce v souladu s InfZ a podal proti rozhodnutí odvolání. Z rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47, vyplývá, že procesně je při vyřizování žádosti o informace dle zákona o obcích (v tomto případě dle zákona o HMP) třeba postupovat dle InfZ. Žalovaná tedy dle InfZ měla rozhodnout o odvolání ve lhůtě 15 (případně 22) dnů a neučinila tak. Žalobci tedy nezbývá než podat správní žalobu proti nečinnosti.
+Žalobce má za to, že v případě žalované silně převažují znaky, které jsou typické pro veřejnou instituci.
+
+Žalovaná po té, co usoudila, že se na ni nevztahuje § 51 odst. 3 písm. c) zákona o HMP (byť s tím žalobce nesouhlasí), měla postupovat dle InfZ a žalobci informaci stejně poskytnout.
+
+Protože žalovaná žalobci informace neposkytla, ačkoliv měla, postupoval žalobce v souladu s InfZ a podal proti rozhodnutí odvolání. Žalovaná dle InfZ měla rozhodnout o odvolání ve lhůtě 15 dnů a neučinila tak. Žalobci tedy nezbývá než podat správní žalobu proti nečinnosti.
 
 ### Návrh rozsudku
 
