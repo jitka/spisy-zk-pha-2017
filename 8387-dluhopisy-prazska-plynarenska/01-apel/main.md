@@ -17,7 +17,7 @@ your:
       -     110 00, Praha 1
    note:
       -     k rukám
-      -     Ing. Michala Haška,
+      -     Ing. Karla Grabeina Procházky
       -     člena Rady hlavního města Prahy
    ds:      
 style:      letter
