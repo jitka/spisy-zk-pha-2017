@@ -15,6 +15,10 @@ your:
    address:
       -     Vodičkova 18
       -     110 00, Praha 1
+   note:
+      -     k rukám
+      -     Jméno příjmení
+      -     zastupitel městské části Praha 1
    ds:      
 style:      letter
 reminder:   true
