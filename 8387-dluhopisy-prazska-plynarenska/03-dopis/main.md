@@ -32,6 +32,8 @@ Nezpochybňuji, že vydání dluhopisů mohlo mít příznivý finanční dopad 
 
 Na konci odpovědi píšete, že postup Pražské plynárenské byl legitimizován přijetím novely Zákona o registru smluv, dle které je společnost zbavena povinnosti zveřejňování smluv. To ale není pravda. Novelou zákona došlo k tomu, že nově nemusí být zveřejňovány smlouvy uzavřené obchodními společnostmi, pokud tyto smlouvy byly uzavřeny „v běžném obchodním styku v rozsahu předmětu činnosti nebo podnikání uvedené právnické osoby zapsaného ve veřejném rejstříku“. Kdyby Pražská plynárenská zveřejňovala jen ty smlouvy, které zákon vyžaduje, tedy smlouvy, které neuzavírá v běžném obchodním styku (například tedy sponzorské smlouvy, smlouvy o prodeji nemovitostí, smlouvy na právní, konzultantské a mediální služby atd.), byl bych spokojený. Pražská plynárenská ale nezveřejňuje žádné smlouvy, protože si zajistila, aby se na ni vztahovala výjimka.
 
+\newpage
+
 Z výše uvedených důvodů vás proto opět žádám, abyste se jakožto odpovědný radní dohodl s orgány Pražské plynárenské, a.s., aby tato společnost začala zveřejňovat smlouvy v registru smluv i bez zákonné povinnosti.
 
 Předem děkuji.
