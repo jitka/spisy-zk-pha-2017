@@ -40,7 +40,7 @@ Předem děkuji.
 
 P.S. Ve své odpovědi píšete, že Pražská plynárenská předtím nějaké smlouvy zveřejňovala. To ale dle mých informací není pravda, protože všechny smlouvy s Pražskou plynárenskou, které jsem měl tu možnost v Registru smluv shlédnout, byly zveřejněny druhou smluvní stranou. To ale není podstatné.
 
-Adam Zábranský
+S pozdravem
 
 ---
 signature: 
