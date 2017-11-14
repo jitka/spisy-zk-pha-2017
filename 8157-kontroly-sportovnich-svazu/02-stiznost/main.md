@@ -30,7 +30,7 @@ dne 26. října 2017 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném p
 - výsledky těchto kontrol (závěrečné zprávy nebo obdobné dokumenty)
 - dále pokud jsou digitalizovány spisy vztahující se k těmto kontrolám, žádám zaslání obsahu těchto spisů, a pokud ne, žádám o možnost nahlédnutí do těchto spisů s možností pořízení si výpisků a zhotovení kopií. 
 
-Žádost jsem zaslal elektronicky e-mailem podatelně Ministerstva školství, mládeže a tělovýchovy. Povinný subjekt ji následně přidělil identifikátor MSMT7XRBJU. V zákonné lhůtě jsem nicméně neobdržel od povinného subjektu žádnou odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem dle § 16a odst. 6 písm. c) usnesením věc převzal a informaci poskytl sám.
+Žádost jsem zaslal elektronicky e-mailem podatelně Ministerstva školství, mládeže a tělovýchovy. Povinný subjekt ji následně přidělil identifikátor MSMT7XRBJU. V zákonné lhůtě jsem nicméně neobdržel od povinného subjektu žádnou odpověď. Proto podávám v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán, kterým je v tomto případě příslušný ministr, postupem dle § 16a odst. 6 písm. c) usnesením věc převzal a informaci poskytl sám.
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost.
 
