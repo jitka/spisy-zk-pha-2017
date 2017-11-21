@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#7737
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     Ministerstvo vnitra České republiky
    address:
