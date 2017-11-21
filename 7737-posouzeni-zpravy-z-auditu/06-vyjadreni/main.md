@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-v souvislosti s Vaším přípisem Č. j. MV-134413-3/ODK-2017 Vám tímto poskytuji vyjádření k přípiu Magistrátu hlavního města Prahy č. j. 1796864/2017, kterým reagoval na odvolání, podané 13. října 2017. 
+v souvislosti s Vaším přípisem č. j. MV-134413-3/ODK-2017 Vám tímto poskytuji vyjádření k přípiu Magistrátu hlavního města Prahy č. j. 1796864/2017, kterým reagoval na odvolání, podané 13. října 2017. 
 
 Povinný subjekt ve svém přípisu, který Vám zaslal, i nadále zastává názor, že požadovaná informace je podkladem pro budoucí rozhodnutí, a že se tedy jedná o tzv. „novou informaci“ dle ust. § 11 odst. 1 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“). Na základě toho vydal dne 27. září 2017 rozhodnutí o odmítnutí žádosti č. j. MHMP 1604066/2017. 
 
