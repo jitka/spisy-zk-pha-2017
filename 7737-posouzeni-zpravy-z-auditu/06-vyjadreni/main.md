@@ -28,7 +28,7 @@ Ve svém odvolání ze dne 13. října 2017 jsem uvedl, že o informace jsem ž�
 
 \newpage
 
-Povinný subjekt ve svém přípisu č. j. 1796864/2017, který Ministerstvu vnitra zaslal, nikterak argumentaci z mého odvolání nereflektoval. Nadále zastává stanovisko, které uvedl v odůvodnění svého rozhodnutí č. j. MHMP 1604066/2017 ze dne 27. 9. 2017. K tomu rovněž dodal, že požadované informace jsou „neveřejnou částí spisu“. Pojem „neveřejná část spisu“ je nicméně interním pojmme Magistrátu hlavního města Prahy a není nikterak reflektován ani v InfZ, ani v zákoně č. 131/2000 Sb., o hlavním městě Praze. Skutečnost, že povinný subjekt označí některou informaci za neveřejnou část spisu, nemůže mít dopad na to, jestli může být taková informace poskytnuta podle některého z výše uvedených zákonů. 
+Povinný subjekt ve svém přípisu č. j. 1796864/2017, který Ministerstvu vnitra zaslal, nikterak argumentaci z mého odvolání nereflektoval. Nadále zastává stanovisko, které uvedl v odůvodnění svého rozhodnutí č. j. MHMP 1604066/2017 ze dne 27. 9. 2017. K tomu rovněž dodal, že požadované informace jsou „neveřejnou částí spisu“. Pojem „neveřejná část spisu“ je nicméně interním pojmem Magistrátu hlavního města Prahy a není nikterak reflektován ani v InfZ, ani v zákoně č. 131/2000 Sb., o hlavním městě Praze. Skutečnost, že povinný subjekt označí některou informaci za neveřejnou část spisu, nemůže mít dopad na to, jestli může být taková informace poskytnuta podle některého z výše uvedených zákonů. 
 
 ---
 signature: 
