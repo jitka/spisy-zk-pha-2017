@@ -25,9 +25,9 @@ reminder:   true
 
 Vážená paní předsedkyně,
 
-do dne 1. července 2017 měli dle Etického kodexu člena Zastupitelstva hlavního města Prahy jednotliví zastupitelé povinnost podat kontrolnímu výboru ZHMP majetková přiznání za rok 2016. V srpnu 2017 provedl zastupitel Jakub Michálek z klubu Pirátů spolu se svým asistentem Janem Loužkem kontrolu podaných majetkových oznámení s cílem zjistit případná pochybení a nedostatky, kterých se jednotliví zastupitelé dopustili.
+do dne 1. července 2017 měli dle Etického kodexu člena Zastupitelstva hlavního města Prahy jednotliví zastupitelé povinnost podat kontrolnímu výboru ZHMP majetková přiznání za rok 2016. V srpnu 2017 provedl zastupitel Jakub Michálek z klubu Pirátů spolu se svým asistentem Janem Loužkem kontrolu podaných majetkových oznámení s cílem zjistit případná pochybení a nedostatky, kterých se jednotliví zastupitelé dopustili. Dne 23. listopadu provedl Jan Loužek opětovnou kontrolu podaných majetkových přiznání aby zjistil, zda-li některá pochybení v tomto případě trvají. 
 
-Pochybení, která byla zjištěna, jsou uvedena v přiložené tabulce. Žádám Vás jako předseda zastupitelského klubu Pirátů, abyste z titulu předsedkyně kontrolního výboru ZHMP vyzvala dotyčné zastupitele k doplnění svých majetkových přiznání, která v první polovině letošního roku odevzdali do Vašeho archivu.
+Pochybení, která jsou stále ještě , jsou uvedena v přiložené tabulce. Žádám Vás jako předseda zastupitelského klubu Pirátů, abyste z titulu předsedkyně kontrolního výboru ZHMP vyzvala dotyčné zastupitele k doplnění svých majetkových přiznání, která v první polovině letošního roku odevzdali do Vašeho archivu.
 
 S pozdravem
 
