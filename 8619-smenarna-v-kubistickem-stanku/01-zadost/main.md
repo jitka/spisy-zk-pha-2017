@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#8619
 your:
-   role:    
+   role:    Povinný subjekt
    name:    
       -     Městská část Praha 1
    address:
