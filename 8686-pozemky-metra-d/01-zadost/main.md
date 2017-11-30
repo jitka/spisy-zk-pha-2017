@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-v souladu se zákonem § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí následujících informací: 
+v souladu se zákonem § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí následujících informací: 
 
 * Kolik procent z celkové plochy pozemků, které jsou potřebné pro výstavbu metra I.D, již hlavní město Praha vykoupilo?
 * Kolik procent z celkového počtu pozemků, které jsou potřebné pro výstavbu metra I.D, již hlavní město Praha vykoupilo?
