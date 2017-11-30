@@ -1,39 +1,40 @@
 ---
 title:      Žádost o informace
 author:
-   name:    Adam Zábranský
-   phone:   +420 721 006 868
-   ds:      xwfwgha
-   mail:    adam.zabransky@praha.eu
+   name:    Mikuláš Ferjenčík
+   phone:   +420 737 943 770
+   ds:      i9avjnt
+   mail:    mikulas.ferjencik@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#8619
+   sign:    "Zk Pha #8686"
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
-      -     Městská část Praha 1
+      -     hlavní město Praha
    address:
-      -     Vodičkova 18
+      -     Mariánské nám. 2
       -     110 00, Praha 1
-   ds:      
+sendby:     mail
 style:      letter
-reminder:   true
 ---
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako zastupitel hl. m. Prahy poskytnutí následujících informací: 
+v souladu se zákonem § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí následujících informací: 
 
-* Všechny nájemní, resp. podnájemní smlouvy, které Městská část Praha 1 uzavřela v roce 2017 se soukromými subjekty na pronájem, resp. podnájem kubistického kiosku v Bolzanově ulici, kde je nyní provozována směnárna. 
+* Kolik procent z celkové plochy pozemků, které jsou potřebné pro výstavbu metra I.D, již hlavní město Praha vykoupilo?
+* Kolik procent z celkového počtu pozemků, které jsou potřebné pro výstavbu metra I.D, již hlavní město Praha vykoupilo?
+* Kolik procent z úhrnné ceny všech pozemků, které musí Praha vykoupit pro výstavbu metra I.D, již hlavní město Praha zaplatilo? 
 
-Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu mikulas.ferjencik@pirati.cz nebo do datové schránky i9avjnt. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
 ---
 signature:
-  - Adam Zábranský
-  - nar. 28. 12. 1993
-  - bytem Zbynická 6, 153 00 Praha 16
-abbr:       adam
+  - Mikuláš Ferjenčík
+  - nar. 19. 3. 1987
+  - bytem Bořivojova 108, Praha 3
+  - zastupitel hl. m. Prahy
 ...
