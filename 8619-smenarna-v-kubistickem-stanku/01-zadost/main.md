@@ -24,7 +24,7 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám jako zastupitel hl. m. Prahy poskytnutí následujících informací: 
 
-* Všechny nájemní, resp. podnájemní smlouvy, které kdy Městská část Praha 1 se soukromými subjekty na pronájem, resp. podnájem památkově chráněného kubistického kiosku v Bolzanově ulici (ev. č. památky 44551/1-2040), kde je nyní provozována směnárna. 
+* Všechny nájemní, resp. podnájemní smlouvy, které kdy Městská část Praha 1 uzavřela se soukromými subjekty na pronájem (resp. podnájem) památkově chráněného kubistického kiosku v Bolzanově ulici (ev. č. památky 44551/1-2040), kde je nyní provozována směnárna. 
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost.
 
