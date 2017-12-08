@@ -26,7 +26,7 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, �
 
 * Všechny platné nájemní, resp. podnájemní smlouvy, které Městská část Praha 1 uzavřela se soukromými subjekty na pronájem (resp. podnájem) pozemku č. 2318/9, kde se nachází památkově chráněný kubistický kiosek (ev. č. památky 44551/1-2040), kde je nyní provozována směnárna. 
 
-Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost. Žádám o přímé poskytnutí dokumentu, nikoliv pouze na odkaz na zveřejněnou informaci.
 
 S pozdravem
 
