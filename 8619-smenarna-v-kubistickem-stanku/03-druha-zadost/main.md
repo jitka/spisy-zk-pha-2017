@@ -24,9 +24,9 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí následujících informací: 
 
-* Všechny platné nájemní, resp. podnájemní smlouvy, které Městská část Praha 1 uzavřela se soukromými subjekty na pronájem (resp. podnájem) pozemku č. parc 2318/9 v katastrálním území Nové město, kde se nachází památkově chráněný kubistický kiosek (ev. č. památky 44551/1-2040), kde je nyní provozována směnárna. 
+* Smlouvu označenou CES 2009/2453, kterou Městská část Praha 1 uzavřela se soukromými subjekty na pronájem (resp. podnájem) pozemku č. parc 2318/9 v katastrálním území Nové město, kde se nachází památkově chráněný kubistický kiosek (ev. č. památky 44551/1-2040), kde je nyní provozována směnárna. 
 
-* Zda-li v souladu s usnesením Rady Městské části Praha 1 č. UR17_1303 byla sjednána novace nájemní smlouvy tak, že byl památce vrácen její původní účel (tzn. nebude již sloužit jako směnárna) či zda-li byla předpovězena výpověď z nájemní smlouvy soukromému subjektu. 
+* Zda-li v souladu s usnesením Rady Městské části Praha 1 č. UR17_1303 byla sjednána novace nájemní smlouvy tak, že byl výše zmíněné kulturní památce vrácen její původní účel (tzn. nebude již sloužit jako směnárna) či zda-li byla předložena výpověď z nájemní smlouvy soukromému subjektu. 
 
 Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. Předem děkuji za Vaši vstřícnost. Žádám o přímé poskytnutí dokumentu, nikoliv pouze odkaz na zveřejněnou informaci.
 
