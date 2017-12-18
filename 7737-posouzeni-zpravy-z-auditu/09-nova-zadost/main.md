@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-žádám tímto jako fyzická osoba v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
+žádám tímto jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací: 
 
 * Dokument Posouzení zprávy z auditu Pražských hřbitovů, kterým disponuje Odbor kontrolních činností (OKC).
 
