@@ -24,7 +24,7 @@ style:      letter
 
 Vážený pane řediteli,
 
-na bývalého předsedu zastupitelského klubu Pirátů, pana Mgr. et. Mgr. Jakuba Michálka se obrátil anonymní občan, který v přiloženém dopise shrnul možná pochybení, ke kterým má docházet v Zdravotní záchranné službě hlavního města Prahy, především v jeho personální politice. 
+na bývalého předsedu zastupitelského klubu Pirátů, Mgr. et. Mgr. Jakuba Michálka, se obrátil anonymní občan, který v přiloženém dopise shrnul možná pochybení, ke kterým má docházet v Zdravotní záchranné službě hlavního města Prahy, především v jeho personální politice. 
 
 V prosinci 2017 pan Michálek rezignoval na mandát zastupitele hlavního města Prahy. Jako současný předseda zastupitelského klubu Pirátů v ZHMP jsem převzal jeho agendu. V souvislosti s tím Vás dle s ust. § 51 odst. 1 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, proto žádám o **poskytnutí vyjádření v uvedené záležitosti.** 
 
