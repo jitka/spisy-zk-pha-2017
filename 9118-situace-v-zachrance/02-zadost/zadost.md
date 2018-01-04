@@ -38,7 +38,7 @@ Rovněž Vás žádám o provedení kontroly v Zdravotnické záchranné služb�
 * Účelové propuštění p. Fialové
 * Opětovné zřízení pozice personálního náměstka ředitele ZZS HMP (označené dříve za nadbytečné).
 
-Žádám, aby mi výsledky kontroly poté, jakmile bude uskutečněna, byly v souladu s ust. § 51 odst. 1 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, byly zaslány datovou schránkou na adresu xwfwgha.
+Žádám, aby mi výsledky kontroly poté, jakmile bude uskutečněna, byly v souladu s ust. § 51 odst. 1 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, byly zaslány.
 
 S pozdravem
 
