@@ -22,7 +22,7 @@ reminder:   true
 
 Vážení,
 
-dne 4. ledna 2018 jsem jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí následujících informací: 
+dne 30. ledna 2018 jsem jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí následujících informací: 
 
 * Dokument Posouzení zprávy z auditu Pražských hřbitovů, kterým disponuje Odbor kontrolních činností (OKC).
 
