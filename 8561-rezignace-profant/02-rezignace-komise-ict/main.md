@@ -31,6 +31,6 @@ Navrhuji, aby se ve funkci člena komise Rady hl.m. Prahy pro rozvoj konceptu Sm
 ---
 signature:
 - Ondřej Profant
-- poslanec Parlamentu České republiky za klub
+- poslanec Parlamentu České republiky za klub Pirátů
 abbr:       ondra
 ...
