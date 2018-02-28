@@ -10,10 +10,10 @@ our:
    sign:    "Zk Pha #8561"
 your:
    role:    
-   name:    Poslanecká sněmovna Parlamentu České republiky
+   name:    hlavní město Praha
    address:
-      -     Sněmovní 176/4
-      -     118 00 Praha 1
+      -     Mariánské nám. 2
+      -     110 00 Praha 1
    note:
       -     k rukám
       -     Mgr. Adriany Krnáčové, MBA
@@ -31,6 +31,6 @@ Navrhuji, aby se ve funkci člena komise Rady hl.m. Prahy pro rozvoj konceptu Sm
 ---
 signature:
 - Ondřej Profant
-- poslanec Parlamentu České republiky za klub Pirátů
+- poslanec Parlamentu České republiky za klub
 abbr:       ondra
 ...
