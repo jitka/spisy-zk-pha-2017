@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace podle zákona č. 106/1999 Sb.
+title:      Žádost o vyjádření
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
@@ -26,11 +26,9 @@ Vážený pane řediteli,
 
 na bývalého předsedu zastupitelského klubu Pirátů, Mgr. et. Mgr. Jakuba Michálka, se obrátil anonymní občan, který v přiloženém dopise shrnul možná pochybení, ke kterým má docházet v Zdravotní záchranné službě hlavního města Prahy, především v jeho personální politice. 
 
-V prosinci 2017 pan Michálek rezignoval na mandát zastupitele hlavního města Prahy. Jako současný předseda zastupitelského klubu Pirátů v ZHMP jsem převzal jeho agendu. V souvislosti s tím Vás dle s ust. § 51 odst. 1 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, proto žádám o **poskytnutí vyjádření v uvedené záležitosti.** 
+V prosinci 2017 pan Michálek rezignoval na mandát zastupitele hlavního města Prahy. Jako současný předseda zastupitelského klubu Pirátů v ZHMP jsem převzal jeho agendu. V souvislosti s tím Vás dle proto žádám o **poskytnutí vyjádření v uvedené záležitosti.** 
 
-\newpage
-
-Rovněž Vás žádám o provedení kontroly v Zdravotnické záchranné službě hlavního města Prahy, předně v oblasti personální politiky, a to takovým způsobem, aby byla analyzována následující možná pochybení:
+Primárně mi jde o tato nařčení: 
 
 * Účelová rozhodnutí v personální oblasti ze strany ředitele ZZS HMP Petra Koloucha s cílem preferování osob, se kterými má blízké společenské vazby.
 * Přijetí dr. Mlynářové, p. Šedivky, p. Hibelbauerové, p. Navrátila a p. Kopáčkové do pracovního poměru bez výběrového řízení.
@@ -38,9 +36,7 @@ Rovněž Vás žádám o provedení kontroly v Zdravotnické záchranné služb�
 * Účelové propuštění p. Fialové
 * Opětovné zřízení pozice personálního náměstka ředitele ZZS HMP (označené dříve za nadbytečné).
 
-Žádám, aby mi výsledky kontroly poté, jakmile bude uskutečněna, byly v souladu s ust. § 51 odst. 1 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, byly zaslány.
-
-S pozdravem
+Rovněž bych se chtěl dotázat, zda-li se Váš odbor těmito výše zmíněnými nařčeními již v minulosti zabýval. 
 
 ---
 signature:
